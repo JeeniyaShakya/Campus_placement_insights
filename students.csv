@@ -1,0 +1,2130 @@
+student_id,roll_no,student_name,branch,raw_source_table
+51,1509113065,Nishith Jaiswal,IT,students_2019
+52,1509113025,Apoorv Raj,IT,students_2019
+57,1509113012,Akshita Rana,IT,students_2019
+79,1509113114,Vaibhav Mittal,IT,students_2019
+89,1509113011,Akarsh Gupta,IT,students_2019
+94,1509113030,Astha Garg,IT,students_2019
+101,1509113055,Manavi Singh,IT,students_2019
+103,1509113078,Raghav Bharadwaj,IT,students_2019
+107,1509121025,Ishika Gupta,IT,students_2019
+111,1509113103,Shubham Misra,IT,students_2019
+112,1509113044,Ishan Srivastava,IT,students_2019
+122,1509113109,Subodh Kumar Bansal,IT,students_2019
+125,1509113051,Kartikay Pundir,IT,students_2019
+129,1509113049,Kanishk B Lalwani,IT,students_2019
+133,1509113010,Ajey Verma,IT,students_2019
+136,1509113080,Richa Verma,IT,students_2019
+147,1509113104,Shubham Sisodia,IT,students_2019
+150,1509113091,Shiva Singh,IT,students_2019
+155,1509113008,Adesh Kumar,IT,students_2019
+162,1509113057,Meghna,IT,students_2019
+163,1509113039,Divya Dixit,IT,students_2019
+166,1509113040,Divya Singhal,IT,students_2019
+169,1509113102,Shubham Mishra,IT,students_2019
+179,1509113042,Harshit Gupta,IT,students_2019
+184,1509113006,Abhishek Porwal,IT,students_2019
+189,1509113069,Parjanya Singh,IT,students_2019
+193,1509113037,Deepika Vishwakarma,IT,students_2019
+196,1509113001,Aakash,IT,students_2019
+205,1509113013,Alankrit Baranwal,IT,students_2019
+208,1509131120,Vibha Bhasin,IT,students_2019
+209,1509113045,Ishika Rathi,IT,students_2019
+210,1509113093,Shivam Goel,IT,students_2019
+218,1509113098,Shruti,IT,students_2019
+223,1509113095,Shivangi Malaviya,IT,students_2019
+224,1509113122,Vishwas Patel,IT,students_2019
+232,1509113067,Nishu Shukla,IT,students_2019
+237,1509113038,Divya Choudha,IT,students_2019
+246,1509113028,Archit Saxena,IT,students_2019
+256,1509131033,Ayushi Saxena,IT,students_2019
+257,1509113070,Prakhar Choudhary,IT,students_2019
+261,1509100124,Yash Nigam,IT,students_2019
+262,1509113005,Abhishek Kumar Singh,IT,students_2019
+264,1509113124,Yashasvi Pant,IT,students_2019
+265,1509113032,Ayushi Kapoor,IT,students_2019
+266,1509113023,Anurag Shukla,IT,students_2019
+271,1509131065,Nooreen,IT,students_2019
+274,1509113106,Shubham Yadav,IT,students_2019
+276,1509113097,Shobhit Agrahari,IT,students_2019
+279,1509113110,Taniya Goel,IT,students_2019
+286,1509113015,Aman Chaudhary,IT,students_2019
+292,1509113046,Ishita Awasthi,IT,students_2019
+294,1509113019,Ankit Gupta,IT,students_2019
+298,1509113035,Bhaskar Shukla,IT,students_2019
+299,1509113064,Nikita Tiwari,IT,students_2019
+300,1509113063,Nikhil Priyadarshi,IT,students_2019
+302,1509113092,Shivam Bhargava,IT,students_2019
+303,1509113031,Ayush Singh,IT,students_2019
+317,1509113085,Sakshi Gupta,IT,students_2019
+330,1509113047,Jayesh Bahl,IT,students_2019
+337,1509113052,Kshitij Tyagi,IT,students_2019
+339,1509113022,Anupriya Pal,IT,students_2019
+342,1509113048,Jitendra Kuntal,IT,students_2019
+355,1509113123,Yamini Sharma,IT,students_2019
+359,1509113036,Darpan Kumar Purwar,IT,students_2019
+361,1509113061,Neha Singh,IT,students_2019
+365,1509113112,Tazim Khan,IT,students_2019
+370,1509113071,Prakhar Pant,IT,students_2019
+378,1509113029,Arhind Kumar Gautam,IT,students_2019
+379,1509113014,Alankrit Kumar,IT,students_2019
+390,1509113117,Vibhav Chaturvedi,IT,students_2019
+937,1709110030,Anshul Agarwal,CS,students_2021
+1086,1709110028,Ankit,CS,students_2021
+1375,1809113037,Dev,IT,students_2022
+1528,1809121022,Lavan,EEE,students_2022
+1574,1809131102,Muskan,EC,students_2022
+1,1509113002,Aakash Patel,IT,students_2019
+4,1509113077,Puskin Mittal,IT,students_2019
+9,1509113121,Vishal Gourav,IT,students_2019
+18,1509113003,Abhilash Pandey,IT,students_2019
+19,1509113043,Himani Panwar,IT,students_2019
+20,1509113075,Premlata Sonkar,IT,students_2019
+26,1509113083,Sahil Pratap Singh Bundela,IT,students_2019
+28,1509113089,Shashank Vashistha,IT,students_2019
+30,1509113115,Varun Agarwal,IT,students_2019
+33,1509113072,Prakhar Prakash,IT,students_2019
+41,1509113020,Anuj Agarwal,IT,students_2019
+42,1509113068,Paras Garg,IT,students_2019
+2,1509110052,Himani Sirohi,CSE,students_2019
+5,1509110110,Suraj Kumar,CSE,students_2019
+8,1509110001,Aayush Jaiswal,CSE,students_2019
+10,1609110911,Neha Yadav,CSE,students_2019
+11,1509110081,Prateek Mittal,CSE,students_2019
+12,1509131037,Deep Krishnan,ECE,students_2019
+13,1509110098,Shekhar Banerjee,CSE,students_2019
+15,1509122033,Vaibhav Trivedi,ICE,students_2019
+16,1509110103,Shobha Kumari,CSE,students_2019
+17,1509110083,Rahul Agrawal,CSE,students_2019
+22,1509110039,Bhaargavi Agarwal,CSE,students_2019
+23,1509120084,Shivansh,EE,students_2019
+24,1509110126,Yogesh Chaudhary,CSE,students_2019
+25,1509140046,Anurag Mishra,ME,students_2019
+27,1509140002,Aakash Kapoor,ME,students_2019
+29,1509120085,Shivansh Pratap Singh,EE,students_2019
+31,1509131108,Shristi Gupta,ECE,students_2019
+32,1509140147,Shruti Kirti Awasthi,ME,students_2019
+35,1509131101,Shivam Babbar,ECE,students_2019
+38,1509110048,Faraz Khan,CSE,students_2019
+40,1509131109,Shruti Singh,ECE,students_2019
+45,1509131008,Abhishek Razora,ECE,students_2019
+46,1509140107,Pragya Goyal,ME,students_2019
+47,1509110120,Vipul Gupta,CSE,students_2019
+48,1509140025,Akash Aggarwal,ME,students_2019
+50,1509120109,Vikrant Kumar,EE,students_2019
+54,1509131107,Shrishti Chaurasia,ECE,students_2019
+55,1509140108,Prakhar Khanna,ME,students_2019
+60,1509140018,Adarsh Yadav,ME,students_2019
+61,1509122020,Prateek Pathak,ICE,students_2019
+62,1509121043,Rohan Kumar Soni,ECE,students_2019
+63,1509110026,Anurag Kakkar,CSE,students_2019
+64,1509120007,Akash Sharma,EE,students_2019
+65,1509110074,Parth Saxena,CSE,students_2019
+66,1509131069,Prachet Bhattacharya,ECE,students_2019
+67,1509131047,Ishu Annad,ECE,students_2019
+68,1509131118,Vaibhav Kargeti,ECE,students_2019
+69,1509110087,Robin Singh,CSE,students_2019
+70,1509110115,Uddeshya Kumar Chaudhary,CSE,students_2019
+71,1509131071,Prakhar Srivastava,ECE,students_2019
+73,1509140161,Siddhartha Johri,ME,students_2019
+74,1509110073,Nipun Sharma,CSE,students_2019
+49,1509113101,Shubham Jaiswal,IT,students_2019
+75,1509140066,Dewansh Poddar,ME,students_2019
+76,1509110099,Shivani Tekriwal,CSE,students_2019
+78,1509131053,Kartikey Singh Chauhan,ECE,students_2019
+80,1509121062,Yashasvi Singh,EEE,students_2019
+82,1509110010,Aditya Agarwal,CSE,students_2019
+83,1509120048,Mohammad Waris,EE,students_2019
+84,1609110906,Kaushal Baghel,CSE,students_2019
+85,1509122013,Ishu Bhardwaj,ECE,students_2019
+86,1509110101,Shivarth Kumar,CSE,students_2019
+88,1509120058,Priya Singh,EE,students_2019
+90,1509140093,Naman Bhardwaj,ME,students_2019
+91,1509100006,Abhishek Kumar,CE,students_2019
+92,1509120001,Abhijeet Gupta,EE,students_2019
+93,1509131049,Jigyasa Bisht,ECE,students_2019
+95,1509140125,Rohan Vanjani,ME,students_2019
+96,1509110094,Saurabh Sirohi,CSE,students_2019
+97,1509131070,Prajwal Goel,ECE,students_2019
+100,1509140097,Nikhil Purwar,ME,students_2019
+102,1509131113,Srishti Sinha,ECE,students_2019
+104,1509140173,Vatsala Tyagi,ME,students_2019
+105,1509110112,Tanay Yadav,CSE,students_2019
+106,1509110066,Mohak Ahujaa,CSE,students_2019
+108,1509122001,Aadarsh Goel,ICE,students_2019
+113,1509110093,Saurabh Ranjan,CSE,students_2019
+114,1509120105,Vaibhav Sharma,EE,students_2019
+115,1509120012,Amitesh Kumar,EE,students_2019
+116,1609110919,Sidharth Pandey,CSE,students_2019
+117,1509110029,Archit Bhatnagar,CSE,students_2019
+120,1509122009,Bhartendra Pratap Singh,ICE,students_2019
+121,1509120096,Sumit Verma,EE,students_2019
+123,1509110118,Varun Singh,CSE,students_2019
+124,1509110005,Abhijeet Singh Chauhan,CSE,students_2019
+126,1509100086,Rishi Vashisht,CE,students_2019
+127,1509110007,Abhishek Balyan,CSE,students_2019
+128,1509140049,Apoorva Harsh Yadav,ME,students_2019
+130,1509120010,Amit Gupta,EE,students_2019
+132,1509140110,Pranjal Kulshrestha,ME,students_2019
+134,1609140915,Deepesh Varshney,ME,students_2019
+135,1509122032,Tanishq,ICE,students_2019
+138,1509140015,Abhishekh Kumar Srivastav,ME,students_2019
+139,1509110041,Bhoomika Chauhan,CSE,students_2019
+140,1509140104,Piyush Baranwal,ME,students_2019
+141,1509122003,Abheek Chakravorty,ICE,students_2019
+142,1609121903,Deepali Agarwal,EEE,students_2019
+143,1509110109,Sonali Rawat,CSE,students_2019
+144,1509140044,Anupam Srivastava,ME,students_2019
+145,1509110119,Vedansh Kedia,CSE,students_2019
+146,1509100093,Satyam Verma,CE,students_2019
+148,1509110002,Ayush Kumar,CSE,students_2019
+149,1509110106,Shubhangi Gupta,CSE,students_2019
+151,1509131112,Somya Verma,ECE,students_2019
+153,1509120015,Anshuman Shukla,EE,students_2019
+154,1509110049,Harsh Tomat,CSE,students_2019
+156,1509131077,Prateek Saxena,ECE,students_2019
+157,1509110046,Divya Khanna,CSE,students_2019
+158,1509121007,Aditi Shukla,ECE,students_2019
+160,1509140013,Abhishek Singh,ME,students_2019
+161,1509131121,Vishal Kumar,ECE,students_2019
+165,1509131110,Shubham Verma,ECE,students_2019
+167,1509110045,Divay Sharma,CSE,students_2019
+168,1509131022,Anushka Singh,CSE,students_2019
+171,1609110915,Rohit Patel,CSE,students_2019
+172,1609122901,Anmol Pathak,ICE,students_2019
+173,1509120013,Anshika Sahu,EE,students_2019
+174,1509131016,Anjuli Agarwal,ECE,students_2019
+175,1509140026,Akash Kumar,ME,students_2019
+177,1509131059,Meghal Jain,ECE,students_2019
+178,1509140098,Nishant,ME,students_2019
+180,1509131006,Abhishek Kumar Gautam,ECE,students_2019
+181,1509120100,Tanishq Varshney,EE,students_2019
+182,1509110071,Niket Sharma,CSE,students_2019
+183,1509122024,Raj Gubrele,ICE,students_2019
+185,1509110058,Karan Chopra,CSE,students_2019
+187,1509110013,Akash Singh Sant,CSE,students_2019
+188,1509110102,Shlok Srivastava,CSE,students_2019
+190,1509110037,Aviral Pandey,CSE,students_2019
+191,1509140045,Anupam Tripathi,ME,students_2019
+192,1509131014,Aman Verma,ECE,students_2019
+194,1509110032,Arun,CSE,students_2019
+198,1509110004,Abheet Verma,CSE,students_2019
+199,1509110009,Abhishek Tonk,CSE,students_2019
+200,1609121905,Saurabh Sharma,EEE,students_2019
+201,1509140057,Ashutosh Priya Vats,ME,students_2019
+202,1509140180,Vishakh Mehta,ME,students_2019
+203,1509140034,Amulya Ratna,ME,students_2019
+204,1509110043,Dhruv Gupta,CSE,students_2019
+206,1509140185,Yash Agarwal,ME,students_2019
+623,1609110060,Meghna,CS,students_2020
+207,1509140143,Shivanshu Merothia,ME,students_2019
+212,1509140051,Arpit Kumar,ME,students_2019
+213,1609110909,Megha Verma,CSE,students_2019
+214,1509110006,Abhimanyu Rajvanshi,CSE,students_2019
+215,1509110114,Tirthankar Sarkar,CSE,students_2019
+216,1509131102,Shivani Somvanshi,ECE,students_2019
+217,1509110019,Anava Srivastava,CSE,students_2019
+219,1509140186,Yash Srivastava,ME,students_2019
+220,1509120062,Rameshwar Singh,EE,students_2019
+221,1509121017,Ayushi Singh,EEE,students_2019
+222,1509131010,Akash Yadav,ECE,students_2019
+225,1509110011,Aditya Agarwal,CSE,students_2019
+226,1509100002,Abdul Haque,CE,students_2019
+227,1609121904,Mr. Mohommad Salman Ansari,EEE,students_2019
+228,1509140172,Vardaan Agarwal,ME,students_2019
+229,1509100045,Harsh Chaudhary,ME,students_2019
+230,1509121008,Akanksha Singh,EEE,students_2019
+233,1509131085,Rishab Srivastava,ECE,students_2019
+234,1509120050,Nikhil Joshi,EE,students_2019
+235,1509140078,Jatin Sharma,ME,students_2019
+236,1509110092,Satwik Singh,CSE,students_2019
+238,1509131046,Ishan Dalela,ECE,students_2019
+240,1509140188,Yasoob Abbas,ME,students_2019
+241,1509122010,Bhavesh Mishra,ICE,students_2019
+242,1509110065,Mihir Atrey,CSE,students_2019
+245,1509120055,Palak Tulsyan,EE,students_2019
+247,1509110056,Jatin Kumar Singh,CSE,students_2019
+248,1509122026,Rushali Srivastava,ICE,students_2019
+249,1509140137,Saurabh Singh,ME,students_2019
+250,1509110078,Prakhar Singh,CSE,students_2019
+251,1509110104,Shobhit Jain,CSE,students_2019
+252,1509140127,Rohit Yadav,ME,students_2019
+253,1509140134,Saumya Shrey,ME,students_2019
+254,1509131035,Chandra Mohan,ECE,students_2019
+255,1509131032,Ayush Singh Raghuvanshi,ECE,students_2019
+258,1609110902,Atul Singh,CSE,students_2019
+259,1509110025,Anupreksha Jain,CSE,students_2019
+260,1509121060,Vatsal,EEE,students_2019
+267,1509121020,Brijesh Chandra,EEE,students_2019
+269,1509110121,Vishal Srivastava,CSE,students_2019
+272,1509131019,Anukriti Tyagi,ECE,students_2019
+273,1509110080,Prashant Gupta,CSE,students_2019
+275,1509100048,Harshul Agarwal,CE,students_2019
+277,1509110116,Umang Bansal,CSE,students_2019
+278,1509120057,Pragati Katiyar,EE,students_2019
+280,1509131090,Saksham Katiyar,ECE,students_2019
+281,1509121051,Shivam Yadav,EEE,students_2019
+282,1509140102,Paras Saini,ME,students_2019
+283,1509131064,Nitin Kaushik,ECE,students_2019
+284,1509131093,Saloni Sharma,ECE,students_2019
+285,1509110124,Yash Omar,CSE,students_2019
+288,1509140100,Nishit Vishwakarma,ME,students_2019
+289,1509110033,Ashish Kumar,CSE,students_2019
+290,1509140061,Bharat Bhushan,ME,students_2019
+291,1609121901,Abhishek Rastogi,EEE,students_2019
+293,1509110042,Devesh Singh,CSE,students_2019
+295,1609110914,Rajat Sharma,CSE,students_2019
+296,1509140164,Sumit,ME,students_2019
+297,1509131001,Aakash Garg,ECE,students_2019
+304,1509140157,Siddharth Shukla,ME,students_2019
+305,1509131089,Sahinoor Alam,ECE,students_2019
+307,1509140011,Abhishek Dubey,ME,students_2019
+308,1509120054,Nishant Upreti,EE,students_2019
+309,1509120017,Aprajita,EE,students_2019
+310,1509110107,Siddhant Agarwal,CSE,students_2019
+311,1509140094,Narang Kumar Bhardwaj,ME,students_2019
+312,1609110922,Syed Ateebul Islam,CSE,students_2019
+313,1509110072,Nikhil Dhand,CSE,students_2019
+314,1509131103,Shoaib Jameel Khan,ECE,students_2019
+315,1509140043,Anuj Singh,ME,students_2019
+316,1509110901,Ashutoshanand Tiwari,CSE,students_2019
+318,1509110003,Abhay Pratap Singh,CSE,students_2019
+321,1509110069,Neelisha Saxena,CSE,students_2019
+322,1509131106,Sri Hari,ECE,students_2019
+324,1509122035,Vikash Verma,ICE,students_2019
+325,1509120040,Ekansh Agrawal,EE,students_2019
+326,1509140166,Suyash Raj Mishra,ME,students_2019
+328,1509122034,Vedica Awasthi,ICE,students_2019
+329,1509131039,Divyansh Gauba,ECE,students_2019
+331,1509110060,Kaushalendra Kumar Singh,CSE,students_2019
+332,1509110054,Himanshu Agrawal,CSE,students_2019
+334,1509131095,Sandeep Kumar Singhani,ECE,students_2019
+335,1509131096,Sarthik Gupta,ECE,students_2019
+336,1509131072,Pranav Yadav,ECE,students_2019
+338,1509122015,Kartika Singh,ICE,students_2019
+341,1509122005,Abhishek Rajput,ICE,students_2019
+344,1509131011,Akshay Rawat,ECE,students_2019
+345,1509120016,Apar Agrawal,EE,students_2019
+346,1509110082,Priya Yadav,CSE,students_2019
+347,1509131050,Kanchan Jaiswal,ECE,students_2019
+348,1509100003,Abdul Maabood Ahmad,CE,students_2019
+349,1509131060,Mohika Madahar,ECE,students_2019
+350,1609110921,Sushmita Gupta,CsE,students_2019
+352,1509131086,Ritika Makar,ECE,students_2019
+354,1509131054,Kriti Agarwal,ECE,students_2019
+356,1509131083,Rishabh Handa,ECE,students_2019
+357,1509131055,Kriti Sahu,ECE,students_2019
+358,1509120072,Sachin Shaw,EE,students_2019
+360,1509110023,Ankit Tiwari,CSE,students_2019
+362,1509131097,Saumya Singhal,ECE,students_2019
+363,1609140902,Abhishek Verma,ME,students_2019
+364,1509110051,Harshit Verma,CSE,students_2019
+366,1509131091,Sakshi Sachan,ECE,students_2019
+367,1509140024,Akarsh Singh,ME,students_2019
+368,1509110015,Aman Gupta,CSE,students_2019
+369,1509131063,Nikhil Kumar,ECE,students_2019
+371,1509113108,Shweta Gupta,CSE,students_2019
+372,1509110061,Kushagra Mishra,CSE,students_2019
+373,1509131092,Saloni Agarwal,ECE,students_2019
+374,1509110097,Shaurya Singh,CSE,students_2019
+375,1509120063,Rashi Negi,EE,students_2019
+376,1509121031,Nitin Singh,EEE,students_2019
+377,1509120009,Ambuj Srivastava,EE,students_2019
+380,1509131078,Pravi Gautam,ECE,students_2019
+381,1509110022,Ankit Jain,CSE,students_2019
+384,1609140930,Shubham Shukla,ME,students_2019
+385,1509113018,Anjul Srivastav,ECE,students_2019
+386,1509110077,Prakhar Prakash Bhardwaj,CSE,students_2019
+387,1509140089,Mudit Srivastava,ME,students_2019
+388,1509120064,Rewati Tiwari,EE,students_2019
+389,1509120087,Shreya Srivastava,EE,students_2019
+391,1509140067,Divy Tulsyan,ME,students_2019
+392,1509110017,Ambar Gupta,CSE,students_2019
+394,1509131087,Riya Joshi,ECE,students_2019
+396,1509131029,Atul Sharma,ECE,students_2019
+397,1509113099,Shruti Agarwal,CSE,students_2019
+399,1709110911,Lakshay Parashar,CS,students_2020
+402,1609113063,Naina Kapil,IT,students_2020
+403,1709110924,Ujjwal Gupta,CS,students_2020
+405,1609140076,Kalpit Prajapati,ME,students_2020
+406,1609110041,Divya Verma,CS,students_2020
+407,1609122011,Devang,ICE,students_2020
+408,1609113013,Aman Lalwani,IT,students_2020
+409,1609131156,Shubhanshu Singh,ECE,students_2020
+410,1609131101,Padmesh Kunwar,ECE,students_2020
+411,1609131070,Komal Pandey,ECE,students_2020
+412,1609120123,Yatharth Tiwari,EE,students_2020
+413,1609110003,Abhishek - Gupta,CS,students_2020
+414,1609140110,Priyanshi Singh,ME,students_2020
+415,1609113075,Pranjal Vaish,IT,students_2020
+416,1609110045,Gaurangi Agrawal,CS,students_2020
+417,1609113008,Aditya Singh,IT,students_2020
+418,1609131036,Archit Tewari,ECE,students_2020
+420,1609113036,Diksha Chhabra,IT,students_2020
+422,1609131180,Vishesh Rajput,ECE,students_2020
+423,1609110002,Abhishek Agrawal,CS,students_2020
+425,1609131125,Rupal Tyagi,ECE,students_2020
+426,1609140026,Aman Tripathi,ME,students_2020
+427,1609120103,Shubham Prajapati,ECE,students_2020
+428,1609140168,Vaibhav Kumar Pathak,ME,students_2020
+429,1609131178,Vipin Kumar Soni,ECE,students_2020
+430,1609122003,Akshat Trivedi,ICE,students_2020
+431,1609110012,Aniket Namdeo,CS,students_2020
+432,1609131052,Devanshu Monga,ECE,students_2020
+433,1609113105,Shivam Singh Rathaur,IT,students_2020
+434,1609131053,Devesh Pratap Singh Shakya,ECE,students_2020
+435,1609121001,Aabda Khatoon,EEE,students_2020
+436,1609131043,Avantika Shukla,ECE,students_2020
+438,1609120061,Namrata Sharma,EE,students_2020
+439,1609110108,Siddharth Vashishtha,CS,students_2020
+440,1609110095,Saurabh Chandra,CS,students_2020
+441,1601931092,Nehul Chaudhary,ECE,students_2020
+442,1609131123,Rohan Swaroop,ECE,students_2020
+443,1609131117,Rahul Bhatia,ECE,students_2020
+444,1609100110,Shreeya Verma,IT,students_2020
+445,1609110102,Shrayansh,CS,students_2020
+447,1609110075,Prateek Chaudhary,CS,students_2020
+448,1609122023,Pranjal Sharma,ICE,students_2020
+449,1609131165,Tanya Agarwal,ECE,students_2020
+450,1609120077,Rahul Chugh,EE,students_2020
+451,1609113088,Rishabh Verma,IT,students_2020
+452,1609120065,Nishant Tyagi,ECE,students_2020
+453,1609113003,Aayush Rastogi,IT,students_2020
+454,1609121012,Ankesh Kumar,EEE,students_2020
+455,1609113094,Sakshi Gautam,IT,students_2020
+456,1709131801,Shivam Gupta,ECE,students_2020
+457,1609113082,Priyanka Rajput,CS,students_2020
+458,1609110118,Utkarsh Srivastava,CS,students_2020
+459,1609140155,Srishti Singh,ME,students_2020
+460,1609113018,Animesh Seemendra,IT,students_2020
+461,1609113068,Nishant Pratap,IT,students_2020
+462,1609140092,Mohd Arham Ansari,ME,students_2020
+463,1609140051,Chinmay Shukla,ME,students_2020
+464,1609110050,Jyotiraditya Singh,CS,students_2020
+465,1609110081,Renalka Khan,CS,students_2020
+466,1609120062,Neha Pandey,EE,students_2020
+467,1609131155,Shubham Mittal,ECE,students_2020
+468,1609131081,Mohit Kumar Srivastava,ECE,students_2020
+469,1609113123,Vakshar Jain,IT,students_2020
+470,1609113050,Jatin Vats,IT,students_2020
+471,1609120045,Ishank Kedaria,EE,students_2020
+472,1609100057,Kartikeya Rastogi,CE,students_2020
+473,1609121025,Kartik Kumar,EEE,students_2020
+474,1609120069,Pragati,ECE,students_2020
+475,1609131040,Arvind Chaudhary,ECE,students_2020
+476,1609120115,Utkarsh Gupta,EE,students_2020
+477,1609110022,Anurag Sachdeva,CS,students_2020
+478,1609121049,Sakshi Rastogi,EEE,students_2020
+479,1609113103,Shinjan Sengar,IT,students_2020
+480,1609131010,Aditya Seth,ECE,students_2020
+481,1609110009,Aman Agrawal,CS,students_2020
+482,1609140048,Ayushi Rajpoot,ME,students_2020
+483,1609110100,Shivangi Kumar,CS,students_2020
+484,1609121050,Shailza Dubey,IT,students_2020
+485,1609110111,Sparsh Singh Rathore,CS,students_2020
+486,1609113032,Ayush Agarwal,IT,students_2020
+487,1609131158,Simran Gupta,ECE,students_2020
+393,1509113096,Shivansh Pandey,IT,students_2019
+488,1609120041,Harsh Kr. Srivastava,EE,students_2020
+489,1609110046,Harimangal Pandey,CS,students_2020
+490,1609113118,Ujjwal Jain,IT,students_2020
+491,1609110092,Sansriti Mishra,CS,students_2020
+492,1609120010,Abhishek Singh,EE,students_2020
+493,1609110113,Supriya Singh,CS,students_2020
+494,1609131060,Himanshi Arya,ECE,students_2020
+495,1609140170,Vemparala Priyanka Murty,ME,students_2020
+496,1609121038,Padmaja Pande,EEE,students_2020
+497,1609110035,Deepak Singh,CS,students_2020
+500,1609110043,Esha Yadav,CS,students_2020
+501,1609131147,Shivangi Singh,ECE,students_2020
+503,1609110090,Sachin Kapoor,CS,students_2020
+504,1609113121,Vaibhav Jain,IT,students_2020
+505,1609131127,Saksham Sinha,ECE,students_2020
+507,1609113067,Nimisha Shukla,IT,students_2020
+508,1609140037,Armaan Mishra,ME,students_2020
+509,1609110062,Mitansha Agrawal,CS,students_2020
+510,1609110091,Sai Zutshi,CS,students_2020
+511,1609113113,Sparsh Raj,IT,students_2020
+512,1609113001,Aayush Agarwal,IT,students_2020
+513,1609110076,Rachit Jain,CS,students_2020
+515,1609110119,Vaibhav Tyagi,CS,students_2020
+516,1609110073,Prairit Verma,CS,students_2020
+517,1609110036,Devesh Chaudhary,CS,students_2020
+518,1609131171,Utkarsh Shukla,ECE,students_2020
+519,1609110087,Riya Gupta,CS,students_2020
+520,1609110029,Atishaya Jain,CS,students_2020
+521,1609120034,Ayushi Jain,EE,students_2020
+522,1609110006,Abhishek Singh,CS,students_2020
+523,1609131152,Shreya Sinha,ECE,students_2020
+524,1609110107,Shubhra Aggarwal,CS,students_2020
+525,1609131179,Vishal Goyal,ECE,students_2020
+527,1509122028,Shraiya Gupta,IT,students_2020
+528,1609120122,Yadhuveer Yadav,EE,students_2020
+529,1609121011,Aman Vardia,EEE,students_2020
+530,1609110001,Aabhijatya Somvanshi,CS,students_2020
+531,1609122027,Rahul Yadav,ICE,students_2020
+532,1609120021,Ankur Kumar,EE,students_2020
+533,1609131154,Shubham Kashyap,ECE,students_2020
+534,1609131024,Ankit Gupta,ECE,students_2020
+535,1609120005,Abhinav Sharma,EE,students_2020
+537,1609131076,Laliteshwar Singh Rathore,ECE,students_2020
+538,1609110007,Akashdeep Singh,CS,students_2020
+539,1609113124,Vasu Mehra,IT,students_2020
+540,1609100082,Pranjal Pathak,CE,students_2020
+541,1609131116,Puneet Kumar Rajan,ECE,students_2020
+542,1609121055,Shivangi Thapliyal,ECE,students_2020
+543,1609113116,Tanvi Gupta,IT,students_2020
+544,1609140094,Mudit Rathi,ME,students_2020
+545,1609131139,Shelly Yadav,ECE,students_2020
+546,1609131134,Shani Kumar,ECE,students_2020
+547,1609120073,Pratiksha Shukla,EE,students_2020
+548,1609131170,Tushar Chauhan,ECE,students_2020
+549,1609113049,Ishneet Kaur,IT,students_2020
+550,1609140152,Sonam Yadav,ME,students_2020
+551,1509110021,Ankit Baluni,CS,students_2020
+552,1609121022,Himanshi Pande,ECE,students_2020
+553,1609131054,Divyanjali Verma,ECE,students_2020
+554,1609131085,Mukarram Ali,ECE,students_2020
+555,1609110030,Atul Kaushik,CS,students_2020
+556,1609110027,Ashish Kumar,CS,students_2020
+557,1609110005,Abhishek Shukla,CS,students_2020
+558,1609140099,Nikhil Chauhan,ME,students_2020
+559,1609113024,Anushka Tayal,IT,students_2020
+560,1609100108,Shivani Tripathi,CE,students_2020
+561,1609131109,Prateek Gupta,ECE,students_2020
+562,1609110059,Mayur Bhagwani,CS,students_2020
+563,1609110117,Utkarsh Dangree,CS,students_2020
+564,1609110120,Vandana Gupta,CS,students_2020
+565,1609113078,Prashant Sikarwar,IT,students_2020
+566,1609113002,Aayush Aggarwal,IT,students_2020
+567,1609113010,Akshat Pandey,IT,students_2020
+568,1609113045,Harsh Preet Singh,IT,students_2020
+570,1609113061,Manjeet Singh,IT,students_2020
+571,1609121021,Garima Jain,EEE,students_2020
+572,1609140047,Ayush Kumar Panwar,ME,students_2020
+573,1609110051,Kriti Agrawal,CS,students_2020
+574,1609113054,Kritika Singh,IT,students_2020
+575,1609110014,Ankit Gautam,CS,students_2020
+576,1609113108,Shruti Dhakarwal,IT,students_2020
+577,1609131091,Neha Yadav,ECE,students_2020
+578,1609131104,Prakhar Garg,ECE,students_2020
+579,1609120050,Krishna Raghav Seth,ECE,students_2020
+580,1609110061,Mitali Kalyan,CS,students_2020
+581,1609110093,Sarthak Vashistha,CS,students_2020
+582,1609113122,Vaibhav Sinha,IT,students_2020
+584,1609140127,Sagar Rana,ME,students_2020
+585,1609131181,Vishesh Saxena,ECE,students_2020
+586,1609113058,Kushagra Chauhan,IT,students_2020
+587,1609100100,Shardul Singh,CE,students_2020
+588,1609131046,Ayuah Chaurasia,ECE,students_2020
+589,1609113051,Kamal Menghani,CS,students_2020
+590,1609110023,Apoorv Bhati,CS,students_2020
+591,1709100915,Rajat Bhardwaj,CE,students_2020
+592,1609113090,Rohit Negi,IT,students_2020
+593,1609113099,Satyam Pandey,IT,students_2020
+594,1609113059,Malika Gupta,IT,students_2020
+595,1609110039,Dhruv Chauhan,CS,students_2020
+596,1609131037,Arpit Gupta,IT,students_2020
+597,1609121033,Mohd Jazib,EEE,students_2020
+599,1609122022,Prachi Yadav,ICE,students_2020
+600,1609113093,Saksham Garg,IT,students_2020
+601,1709131910,Shubham Rana,ECE,students_2020
+602,1609110082,Renuka Saini,CS,students_2020
+603,1609113055,Kul Garima,IT,students_2020
+604,1609122014,Gaurav Dubey,ICE,students_2020
+605,1609113066,Nikhil Singh,IT,students_2020
+606,1609131030,Antriksh Pandey,ECE,students_2020
+607,1609131006,Abhishek Jain,ECE,students_2020
+608,1609113089,Risheik Dhir,IT,students_2020
+610,1609113053,Krishna Kant,IT,students_2020
+611,1609110052,Kshitiz Poswal,CS,students_2020
+612,1609131157,Siddharth Singh,ECE,students_2020
+613,1609113046,Himanshu,IT,students_2020
+614,1609110078,Rajiv Kumar,CS,students_2020
+615,1609140164,Udit Gaur,ME,students_2020
+616,1609131142,Shikhar Srivastava,ECE,students_2020
+617,1609121024,Jayant Patel,EEE,students_2020
+618,1609131001,Aarohan Rawat,ECE,students_2020
+619,1609131075,Lalit Chauhan,ECE,students_2020
+620,1609131077,Mansi Tiwari,ECE,students_2020
+621,1609120070,Prakhar Gupta,EE,students_2020
+624,1609113071,Ocean Bhardwaj,IT,students_2020
+625,1609110084,Rishabh Mittal,CS,students_2020
+626,1709110915,Priya Singh,CS,students_2020
+627,1609113095,Sakshi Gupta,IT,students_2020
+628,1609113019,Ankit Kumar Yadav,IT,students_2020
+629,1609113026,Apoorv Bansal,IT,students_2020
+630,1609110065,Mohit Gautam,CS,students_2020
+631,1609140055,Deepika,ME,students_2020
+632,1609131035,Archit Parikshit,ECE,students_2020
+633,1509120049,Nidhi Pandhey,EE,students_2020
+634,1609131096,Nipun Agrawal,ECE,students_2020
+635,1609131182,Yamini Gupta,ECE,students_2020
+636,1609110063,Mohammed Shayan,CS,students_2020
+637,1509110020,Ankit,CS,students_2020
+638,1609131164,Swetabh Sisodia,ECE,students_2020
+639,1609113074,Prajjuwal Varshney,IT,students_2020
+640,1609110021,Anuj Pathak,CS,students_2020
+641,1609140009,Abhishek Gupta,ME,students_2020
+642,1609131079,Mayank Garg,ECE,students_2020
+643,1609113056,Kunal Sharma,IT,students_2020
+645,1609121051,Shishir Kumar Rai,EEE,students_2020
+646,1609120057,Mohammad Sajid Khan,EE,students_2020
+647,1609110047,Harsh Ojha,CS,students_2020
+648,1609131011,Akanksha Agarwal,ECE,students_2020
+649,1609120009,Abhishek Rai,EE,students_2020
+651,1609131176,Vasu Jain,ECE,students_2020
+653,1609131050,Deeksha Agarwal,ECE,students_2020
+655,1609140066,Harman Singh,ME,students_2020
+657,1609131084,Mudit Kapoor,ECE,students_2020
+658,1609110104,Shubham Rathor,CS,students_2020
+659,1609113107,Shobhit Agarwal,CS,students_2020
+660,1609110070,Piyush Sachan,CS,students_2020
+661,1709110909,Ekesh Tayal,CS,students_2020
+662,1609131088,Namrata Singh,ECE,students_2020
+663,1609113057,Kunal Vishnoi,IT,students_2020
+664,1609140067,Harsh Chauhan,ME,students_2020
+666,1609131031,Anuj Shakya,ECE,students_2020
+667,1609131082,Mohit Singh Payel,ECE,students_2020
+669,1609113092,Sagar Verma,IT,students_2020
+670,1609110089,Rohit Jakhmola,CS,students_2020
+671,1609131160,Sonam Saraswat,ECE,students_2020
+672,1609120019,Anant Verma,EE,students_2020
+673,1609113125,Vishwamitra Adalatwale,IT,students_2020
+674,1609113007,Adarsh Raj,IT,students_2020
+675,1609113034,Deepa Choudhary,IT,students_2020
+676,1609140077,Kartik Goel,ME,students_2020
+677,1609100085,Prateek Agrawal,ME,students_2020
+678,1709120910,Pradeep Kumar Yadav,EE,students_2020
+679,1609110105,Shubhangi Pandey,CS,students_2020
+680,1609113081,Priyam Omer,IT,students_2020
+681,1609110122,Vidushi Jain,CS,students_2020
+683,1609110020,Anubhav Tyagi,CS,students_2020
+684,1609113106,Shivani Gupta,CS,students_2020
+685,1609110066,Mohit Gupta,CS,students_2020
+686,1609110008,Akshit Goel,CS,students_2020
+687,1609113101,Shailendra Kumar,IT,students_2020
+688,1609120117,Vernika Verma,EE,students_2020
+689,1609140149,Siddhant Kumar Singh,ME,students_2020
+690,1609100070,Mukul Upadhayaya,CE,students_2020
+691,1609113109,Shubham Aggarwal,IT,students_2020
+692,1609113080,Prateek Malik,IT,students_2020
+693,1609140006,Abhinav Kant Srivastava,ME,students_2020
+694,1609120038,Divakar Chaudhary,EE,students_2020
+696,1609113016,Anant Jain,IT,students_2020
+697,1609131094,Nikhil Verma,ECE,students_2020
+698,1609131028,Anshul Chaudhary,ECE,students_2020
+699,1609113015,Amit Singh,IT,students_2020
+700,1709110904,Archit Kumar Dwevedi,CS,students_2020
+701,1609121039,Paritosh Kasana,EEE,students_2020
+702,1609131099,Nishant Singh,ECE,students_2020
+703,1609110016,Ankit Mishra,CS,students_2020
+704,1609140113,Raghav,ME,students_2020
+705,1609110112,Sumedh Bhaskar,CS,students_2020
+706,1609110011,Amitesh Agrahari,CS,students_2020
+707,1609113096,Sanchit Garg,IT,students_2020
+708,1609131169,Tarun Singh,ECE,students_2020
+709,1609131014,Akansha Goel,ECE,students_2020
+710,1609140070,Harshit Goyal,ME,students_2020
+711,1609110069,Pawan Soni,CS,students_2020
+712,1609140011,Abhishek Singh,ME,students_2020
+714,1609131033,Anushka Shukla,ECE,students_2020
+715,1609110097,Saurabh Singh Kakran,CS,students_2020
+716,1609110044,Garima Tyagi,CS,students_2020
+717,1609110015,Ankit Kumar Goel,CS,students_2020
+718,1609131162,Suraj Singh,ECE,students_2020
+719,1609113115,Syed Md Farhan,IT,students_2020
+720,1609113048,Himanshu Singh,IT,students_2020
+721,1609113041,Gaurav Kumar Yadav,IT,students_2020
+723,1609113065,Nancy Poddar,CS,students_2020
+727,1709131908,Shantanu Kumar Pathak,ECE,students_2020
+728,1609100012,Aditya Gupta,CE,students_2020
+730,1609110017,Ankur Agarwal,CS,students_2020
+731,1609110042,Divyanshu Agrawal,CS,students_2020
+732,1609140097,Naman Agarwal,ME,students_2020
+733,1609113039,Ebad Husain,IT,students_2020
+734,1609120076,Radhika Agarwal,ECE,students_2020
+735,1609110004,Abhishek Kansal,CS,students_2020
+736,1609131064,Jyoti Shishodia,ECE,students_2020
+737,1609110101,Shivi Chauhan,CS,students_2020
+738,1609110018,Anmol Gupta,CS,students_2020
+739,1609110071,Praful Goyal,CS,students_2020
+740,1609113022,Anshumaan Singh,IT,students_2020
+742,1609110048,Harshit Jaiswal,CS,students_2020
+744,1609131159,Sonal Saxena,ECE,students_2020
+745,1609110056,Madhav Gupta,CS,students_2020
+746,1609110055,Kushagra Bhardwaj,CS,students_2020
+747,1609113035,Deepak Upadhyay,IT,students_2020
+749,1709113907,Ujjwal Gupta,IT,students_2020
+750,1609113114,Sunil Kumar,IT,students_2020
+752,1609131151,Shreya Mishra,ECE,students_2020
+753,1609140013,Adheesh Tripathi,ME,students_2020
+755,1609113009,Akarsh Neeraj,IT,students_2020
+756,1609131026,Anmol,ECE,students_2020
+757,1609113031,Ayush Garg,IT,students_2020
+758,1609113119,Utkarsh Jain,IT,students_2020
+759,1609113070,Nitish Pant,IT,students_2020
+760,1609113042,Hargovind Singh Arora,"",students_2020
+761,1609100003,Abdus Sami,CE,students_2020
+762,1609131124,Rohit Verma,ECE,students_2020
+763,1609120006,Abhinav Srivastava,IT,students_2020
+764,1609113017,Animesh Mishra,IT,students_2020
+765,1609110010,Amit Sikarwar,CS,students_2020
+766,1609131049,Chahak Tyagi,ECE,students_2020
+767,1609110019,Antja Pandey,CS,students_2020
+768,1609110024,Archit Kaushik,CS,students_2020
+769,1609131038,Arpit Singh,ECE,students_2020
+770,1609131132,Saurabh Kumar Dubey,ECE,students_2020
+771,1609140139,Shivam Agrawal,ME,students_2020
+772,1609131131,Saumya Dwivedi,ECE,students_2020
+773,1609110114,Suraj Tripathi,CS,students_2020
+774,1609113104,Shivam Mishra,IT,students_2020
+775,1609113076,Prapti Mohan,IT,students_2020
+776,1609110049,Ishaan Gupta,CS,students_2020
+778,1609131009,Aditya Mishra,ECE,students_2020
+779,1609110109,Siddhartha Yadav,CS,students_2020
+780,1609122012,Dolly Singh,ICE,students_2020
+781,1609122002,Adarsha Wankhede,ICE,students_2020
+783,1609113021,Anmol Jain,IT,students_2020
+784,1609110025,Arushi Kaithwar,CS,students_2020
+785,1609121036,Nishant Kumar,EEE,students_2020
+786,1609131083,Mritunjay Mishra,ECE,students_2020
+787,1609113100,Saurabh Singh,IT,students_2020
+788,1609100071,Nagendra Verma,CE,students_2020
+789,1609121056,Shreya Srivastava,EEE,students_2020
+790,1609121042,Prateek Garg,EEE,students_2020
+791,1609113087,Reetesh Kumar Mishra,IT,students_2020
+792,1609110099,Shivam Gupta,CS,students_2020
+794,1609131102,Parth Dhar,ECE,students_2020
+795,1609100080,Prakhar Agnihotri,CE,students_2020
+796,1609131113,Prerna Singh,ECE,students_2020
+797,1609113084,Rahul Singh,IT,students_2020
+798,1709113022,Ashika Agrawal,IT,students_2021
+799,1709113013,Animish Vaish,IT,students_2021
+800,1709131095,Prakamya Singh,EC,students_2021
+801,1709110094,Naman Jain,CS,students_2021
+802,1709120053,Lalit Mohan Rawat,EE,students_2021
+803,1709140111,Rishit Jain,ME,students_2021
+804,1709131152,Shubham Tiwari,EC,students_2021
+805,1709131063,Harshit Jaiswal,EC,students_2021
+806,1709110119,Rahul Kumar Singh,CS,students_2021
+807,1709122018,Rohit Raj,IC,students_2021
+808,1709110120,Ram,CS,students_2021
+809,1709110050,Ayushi Mangal,CS,students_2021
+810,1709110014,Aditi Verma,CS,students_2021
+811,1709131137,Shivangi Singh,EC,students_2021
+812,1709113064,Naman Tyagi,IT,students_2021
+813,1709131003,Aayush Gupta,IT,students_2021
+814,1709110129,Sahil Diwakar,CS,students_2021
+815,1709120031,Ashutosh Singh,EE,students_2021
+816,1709113026,Avinash Kumar,IT,students_2021
+817,1709113016,Anshul,IT,students_2021
+818,1709110072,Jayant Kumar Singh,CS,students_2021
+819,1709110165,Sourabh Singh,CS,students_2021
+820,1709110109,Prashant Chauhan,CS,students_2021
+821,1809110919,Rajat Chaudhary,CS,students_2021
+822,1709120097,Shwetank Srivastava,EE,students_2021
+823,1809131902,Ankur Srivastava,EC,students_2021
+824,1809110905,Anupriya Sharma,CS,students_2021
+825,1709113086,Rohit Kumar,IT,students_2021
+826,1709113082,Ritika Verma,IT,students_2021
+827,1709122022,Shruti Singh,IC,students_2021
+828,1709131090,Palak Naza,EC,students_2021
+829,1709140040,Chayan Katiyar,ME,students_2021
+830,1709131128,Satyam Gupta,EC,students_2021
+831,1709110065,Hardik Sharma,CS,students_2021
+832,1709131091,Palak Singh,EC,students_2021
+833,1709140009,Ajeet Chauhan,ME,students_2021
+834,1709110170,Tanu Mahajan,CS,students_2021
+835,1709110038,Ashish Bisht,CS,students_2021
+836,1709113002,Abhinav Verma,IT,students_2021
+837,1709110019,Aishwary Srivastava,CS,students_2021
+838,1709110077,Kavya Chandra,CS,students_2021
+839,1709140138,Shubham Kumar Singh,ME,students_2021
+840,1709110157,Shubham Gupta,CS,students_2021
+841,1709131066,Himanshu Gupta,EC,students_2021
+842,1709110113,Priyansh Mishra,CS,students_2021
+843,1709121058,Sourav Kumar Jharsi,EEE,students_2021
+844,1709110125,Rishabh Verma,CS,students_2021
+845,1709110141,Satyam Tripathi,CS,students_2021
+846,1709131052,Devanshu Srivastava,EC,students_2021
+847,1709110033,Arpit Kumar,CS,students_2021
+848,1709110080,Kshitiz Raj Patel,CS,students_2021
+849,1709121040,Prafulla Raja Nishad,EEE,students_2021
+850,1709131184,Yash Julka,EC,students_2021
+852,1709140108,Ridam Bansal,ME,students_2021
+853,1709110126,Ritika Purswani,CS,students_2021
+854,1709113090,Saksham Singh,IT,students_2021
+855,1709121009,Ajay Arora,IT,students_2021
+856,1709120062,Pooja Gupta,EE,students_2021
+857,1709113083,Riya Verma,IT,students_2021
+858,1709110142,Saumya Agrawal,CS,students_2021
+859,1709140078,Manthan Sharma,ME,students_2021
+860,1709140116,Roshan Singh,ME,students_2021
+862,1709110101,Param Prakash Ray,CS,students_2021
+863,1709122023,Suraj Mishra,IC,students_2021
+864,1709140041,Darpan Kumari,IT,students_2021
+865,1709113112,Utkarsh Pal,IT,students_2021
+866,1709110031,Anubhav Srivastava,CS,students_2021
+867,1709110046,Avnish Kumar,CS,students_2021
+869,1709131022,Aman Singh,EC,students_2021
+870,1709120001,Aarushi Singh,EE,students_2021
+871,1709131146,Shubham Gupta,EC,students_2021
+872,1709110013,Aditi Mishra,CS,students_2021
+873,1709121046,Sahil Kumar,EEE,students_2021
+874,1709113074,Prateek Krishna,IT,students_2021
+875,1809121902,Dhananjay Khare,EEE,students_2021
+876,1709131136,Shivangi Deval,EC,students_2021
+877,1709110168,Tabish Ahmad,CS,students_2021
+878,1709110012,Adesh Kumar Jaiswal,CS,students_2021
+880,1709110146,Shahzaib Ahmad,CS,students_2021
+882,1809131913,Ravi Kumar,EC,students_2021
+883,1709122001,Aditi Verma,IC,students_2021
+884,1709110064,Gunjan Yadav,CS,students_2021
+886,1709113018,Anurag Tripathi,IT,students_2021
+887,1709110034,Arti Singh,CS,students_2021
+888,1709121052,Shikhar Sharma,EEE,students_2021
+889,1709131171,Tushar Gupta,EC,students_2021
+890,1709113046,Itisha,IT,students_2021
+891,1709100048,Kunal Pradeep,CE,students_2021
+893,1709140068,Keshav Agarwal,ME,students_2021
+894,1709113080,Ramji Nigam,IT,students_2021
+895,1709110006,Abhinav Singh,CS,students_2021
+896,1709110047,Ayush Gupta,CS,students_2021
+897,1709140095,Prakhar Singh,ME,students_2021
+898,1709131029,Antas Gupta,EC,students_2021
+899,1709140036,Atul Kumar,ME,students_2021
+900,1809140915,Rishabh Singh,ME,students_2021
+901,1709131073,Kritika Saini,EC,students_2021
+902,1709110123,Rishabh Kumar,CS,students_2021
+903,1709120007,Abhishek Srivastava,EE,students_2021
+904,1709120034,Ayush Raman Rai,EE,students_2021
+905,1709113052,Lalit Tyagi,IT,students_2021
+906,1709122008,Manjari Gupta,IC,students_2021
+907,1709140147,Suraj Pal,EEE,students_2021
+908,1709140146,Suraj Kumar Yadav,ME,students_2021
+909,1709110174,Umang Jaiswal,CS,students_2021
+910,1709120122,Yashasvi Sanskrityan,EE,students_2021
+911,1709113104,Shubham Singh,IT,students_2021
+912,1709122017,Rishabha Raj Singh,IC,students_2021
+913,1709120017,Amit Singh,EE,students_2021
+914,1709140029,Anuj Singh,ME,students_2021
+915,1709140006,Aditya Kumar Singh,ME,students_2021
+916,1809121903,Hari Prasad Chaudhary,EEE,students_2021
+917,1709110173,Tushar Saxena,CS,students_2021
+918,1809110915,Menika Kushwaha,CS,students_2021
+919,1709113085,Rohan Verma,IT,students_2021
+920,1709140088,Nitin Bhatt,ME,students_2021
+921,1709131086,Nischal Singh,EC,students_2021
+922,1709131083,Naveen Kumar Singh,EC,students_2021
+923,1709131020,Alok Kumar,EC,students_2021
+924,1709110182,Vibhushit Tyagi,CS,students_2021
+926,1709110102,Parth Thapliyal,CS,students_2021
+927,1709120094,Shivam Prajapati,EE,students_2021
+928,1709110144,Saurabh Sinha,CS,students_2021
+929,1709110148,Shalini Verma,CS,students_2021
+930,1709121001,Aarushi Tiwari,IT,students_2021
+931,1809140909,Kumar Shubham,ME,students_2021
+932,1709140128,Shashwat Gupta,ME,students_2021
+933,1709140137,Shruti Sharma,ME,students_2021
+934,1709110039,Ashish Kumar Gola,CS,students_2021
+936,1709113113,Utkarsh Srivastava,IT,students_2021
+938,1709113097,Shivam Kumar Gupta,IT,students_2021
+939,1709131050,Devansh Dhar Dwivedi,EC,students_2021
+940,1709110097,Nikunj Kumar Rana,CS,students_2021
+941,1709110015,Aditya Kumar,CS,students_2021
+942,1709113089,Saksham Gupta,IT,students_2021
+943,1709131124,Sanskar Kumar,EC,students_2021
+944,1709110132,Sanchit Verma,CS,students_2021
+946,1709122004,Anushka Jaiswal,IC,students_2021
+947,1709113098,Shivank Gupta,IT,students_2021
+948,1709120068,Prateek Singh,EE,students_2021
+949,1709120064,Prakhar Srivastava,EE,students_2021
+950,1709131166,Tanishq Thakral,EC,students_2021
+951,1709121055,Shruti,EEE,students_2021
+952,1709113121,Viplow Srivastava,IT,students_2021
+953,1709140113,Riya Tripathi,ME,students_2021
+954,1709110130,Sakshi Verma,CS,students_2021
+955,1709110180,Vedansh Modwel,CS,students_2021
+956,1709113066,Nitin Bharati,IT,students_2021
+957,1709113012,Alok Kumar Gautam,IT,students_2021
+958,1709131094,Pradhuman Kumar,EC,students_2021
+959,1709110163,Somil Gupta,CS,students_2021
+960,1809140916,Ritic Jain,ME,students_2021
+961,1709113084,Robin Nagar,IT,students_2021
+964,1809140907,Himanshu Singh,ME,students_2021
+965,1709110023,Akhil Gupta,CS,students_2021
+966,1709140039,Bimlesh Kumar Dubey,ME,students_2021
+967,1709113059,Milind Malkani,IT,students_2021
+968,1709110086,Manasvi Malik,CS,students_2021
+969,1709120022,Aniket Raj,EE,students_2021
+970,1709110063,Diksha,CS,students_2021
+971,1709100071,Pushpendra Tyagi,EC,students_2021
+972,1709131139,Shivansh Mehrotra,EC,students_2021
+973,1709110175,Umashankar Yadav,CS,students_2021
+974,1709113100,Shreya Poddar,IT,students_2021
+975,1709110107,Prashansa R. Saxena,CS,students_2021
+976,1709131104,Pundreek Tripathi,EC,students_2021
+977,1709113027,Ayush Gupta,IT,students_2021
+978,1709110134,Sanjeev Kumar Yadav,CS,students_2021
+979,1709131092,Parmeet Singh,EC,students_2021
+980,1709131027,Anshika Kumari,EC,students_2021
+982,1709113057,Mayukh Srivastava,IT,students_2021
+983,1709131097,Prashant Singh,EC,students_2021
+984,1709140087,Nishant Sengar,ME,students_2021
+985,1709131051,Devansh Gupta,EC,students_2021
+986,1709140027,Anmol Gupta,ME,students_2021
+987,1709110150,Shatakshi Garg,CS,students_2021
+988,1709140126,Sarvesh Shukla,ME,students_2021
+989,1709113108,Suryansh Mishra,IT,students_2021
+990,1709110005,Aayushi Gupta,CS,students_2021
+991,1709122010,Parth Sahai,IC,students_2021
+992,1609113047,Himanshu Rai,IT,students_2021
+993,1709110004,Aayush Aggarwal,CS,students_2021
+994,1709131162,Suryansh Choudhary,EC,students_2021
+995,1709121037,Nikita Varshney,EEE,students_2021
+996,1709110124,Rishabh Pathak,CS,students_2021
+997,1709113067,Pooja Upadhyay,IT,students_2021
+998,1709113123,Vivechna Goel,IT,students_2021
+999,1709110071,Ishwar Anand Swarup,CS,students_2021
+1000,1709140169,Vivek Kumar,ME,students_2021
+1001,1709113041,Faizan Hussain,IT,students_2021
+1002,1709131111,Riya Agarwal,EC,students_2021
+1003,1709120059,Neeraj Kumar,EE,students_2021
+1004,1709120085,Saket Khandelwal,EE,students_2021
+1005,1709140099,Priyanka Verma,ME,students_2021
+1006,1709110136,Sanyogita,CS,students_2021
+1007,1709140109,Rishabh Gangwar,ME,students_2021
+1008,1709110106,Pranjali Katiyar,CS,students_2021
+1009,1709113035,Dhawal Viswari,IT,students_2021
+1010,1709131103,Pratyush Patel,EC,students_2021
+1011,1709113019,Anushiv Shukla,IT,students_2021
+1012,1709113010,Akshat Mishra,IT,students_2021
+1013,1709121059,Srijan Jaiswal,EEE,students_2021
+1014,1709113110,Udisha Singhal,IT,students_2021
+1016,1709113008,Akriti Goswami,IT,students_2021
+1017,1709110079,Kshitij Gupta,CS,students_2021
+1018,1709131007,Abhishek Kumar Verma,EC,students_2021
+1019,1709113103,Shubham Sharma,IT,students_2021
+1020,1709113009,Akshat Jain,IT,students_2021
+1021,1709131060,Gaurav Yadav,EC,students_2021
+1022,1709121061,Vaibhav Rajput,EEE,students_2021
+1023,1709110183,Vishnu Singh,CS,students_2021
+1025,1709100053,Mohd Nadeem Akhtar,CE,students_2021
+1026,1709131181,Vishal Singh,EC,students_2021
+1027,1709113054,Manvendra Singh,IT,students_2021
+1029,1709120074,Raj Kumar Yadav,EE,students_2021
+1030,1709113102,Shubham Pathak,IT,students_2021
+1031,1709110073,Kanika Goel,CS,students_2021
+1032,1709131038,Apoorva Srivastava,CS,students_2021
+1033,1709110184,Vivek Baghela,CS,students_2021
+1034,1709110068,Himanshu Singh,CS,students_2021
+1035,1709131082,Naman Ahuja,EC,students_2021
+1036,1809113903,Parvej Khan,IT,students_2021
+1037,1709131164,Suyash Gupta,EC,students_2021
+1038,1709110083,Kushagra Gupta,CS,students_2021
+1039,1709131176,Vaishnavi Tripathi,EC,students_2021
+1040,1709110017,Aditya Rao,CS,students_2021
+1042,1709110074,Karan Veer Singh,CS,students_2021
+1043,1709113033,Devansh Rastogi,IT,students_2021
+1044,1709131099,Prasoon Raj,EC,students_2021
+1045,1709121024,Chandranshu Singh,EEE,students_2021
+1046,1709140045,Diksha Mittal,ME,students_2021
+1047,1709121051,Sharad Chaturvedi,EEE,students_2021
+1048,1709140060,Hrishikesh Gupta,ME,students_2021
+1049,1709131133,Shariya Alam,EC,students_2021
+1050,1709113025,Asmita Verma,IT,students_2021
+1051,1709122005,Ayushi Gupta,IC,students_2021
+1052,1709100016,Anshika Yadav,CE,students_2021
+1053,1709113122,Vishal Shukla,IT,students_2021
+1054,1709131100,Prateek Agrawal,EC,students_2021
+1055,1709120067,Prashant Kumar Pandey,EE,students_2021
+1056,1809110908,Haritika Pandit,CS,students_2021
+1057,1709140044,Devender Gautam,ME,students_2021
+1059,1709113023,Ashutosh Gupta,IT,students_2021
+1060,1709131035,Anuransha Sonkar,EC,students_2021
+1061,1709113120,Vatsal Bhatnagar,IT,students_2021
+1062,1709131109,Rishi Sharma,EC,students_2021
+1063,1809110913,Manik Gupta,CS,students_2021
+1064,1709110087,Mansi Singh,CS,students_2021
+1065,1709113031,Deeksha Singh,IT,students_2021
+1066,1709110001,Aaina Verma,CS,students_2021
+1067,1709113093,Satyam Agarwal,IT,students_2021
+1068,1709113092,"Saurabh Ranjan 
+Srivastava",IT,students_2021
+1069,1709140050,Gaurang Mishra,ME,students_2021
+1070,1709110145,Saurabh Yadav,CS,students_2021
+1071,1709131155,Shubhi Awasthi,EC,students_2021
+1072,1709131071,Kapil Gera,EC,students_2021
+1073,1709113105,Shubham Tyagi,IT,students_2021
+1075,1709120014,Akash Sharma,EE,students_2021
+1076,1709131116,Sagun Rajput,IT,students_2021
+1077,1709110156,Shreyaskar Yadav,CS,students_2021
+1078,1709110147,Shaifali Chauhan,CS,students_2021
+1079,1709110186,Yash Jaiswal,CS,students_2021
+1080,1709110053,Badal Gupta,CS,students_2021
+1081,1709113049,Kush Verma,IT,students_2021
+1082,1709113042,Gagan Verma,IT,students_2021
+1083,1809110927,Srashti Gupta,CS,students_2021
+1084,1809140912,Mohammad Zaki,ME,students_2021
+1085,1709131126,Sarthak Chauhan,EC,students_2021
+1087,1709113048,Kaustubh Dixit,IT,students_2021
+1088,1709120040,Hardik Choudhary,EEE,students_2021
+1089,1709121060,Tijil Shandilya,EEE,students_2021
+1090,1809131912,Prantak Singh,EC,students_2021
+1091,1709100111,Vardaan Sachdeva,CE,students_2021
+1092,1709110149,Shashank Dixit,CS,students_2021
+1093,1709113004,Abhishek Chaurasia,IT,students_2021
+1094,1709121063,Vyas B,EEE,students_2021
+1095,1709113117,Vaibhav Dayal,IT,students_2021
+1096,1709113091,Samarth Verma,IT,students_2021
+1097,1709110011,Abhishek Verma,CS,students_2021
+1098,1709140163,Vikas Sharma,ME,students_2021
+1099,1809110914,Mashu Alam,CS,students_2021
+1100,1709121013,"Anindya Narayan 
+Chakravarty",EEE,students_2021
+1101,1809120914,Varun Sharma,EE,students_2021
+1102,1709100003,Aditya Prakash,ME,students_2021
+1103,1709110045,Atulya Srivastava,CS,students_2021
+1104,1709110022,Akashdeep Singh,CS,students_2021
+1105,1709113076,Rachit Kanaujia,IT,students_2021
+1106,1709122009,Oorja Sinha,IC,students_2021
+1107,1709140143,Sourabh Singh,ME,students_2021
+1108,1709131173,Vaibhav Gupta,EC,students_2021
+1109,1709140160,Vansh,ME,students_2021
+1110,1809100903,Gautam Srivastava,CE,students_2021
+1111,1709131172,Utkarsh Singh,EC,students_2021
+1112,1709120112,Utkarsh Varshney,EE,students_2021
+1113,1709113114,Utkarsh Yadav,IT,students_2021
+1114,1709113047,Jayant Chaturvedi,IT,students_2021
+1115,1709120089,Sharda Yadav,EE,students_2021
+1116,1709131057,Divyanshu Shahi,EC,students_2021
+1117,1709113050,Kushagra Aman,IT,students_2021
+1118,1709100079,Rishabh Maheshwari,CE,students_2021
+1119,1709122012,Prakhar Gurha,IC,students_2021
+1120,1709110160,Shyam,CS,students_2021
+1121,1709131132,Shanya Singh,EC,students_2021
+1122,1709120058,Muskan Agrawal,EE,students_2021
+1123,1709120049,Kartika Agarwal,EE,students_2021
+1124,1709120107,Swati Chaturvedi,EE,students_2021
+1125,1709113068,Pradyumna Gupta,IT,students_2021
+1127,1809110910,Harshit Gupta,CS,students_2021
+1128,1709110052,Ayushi Singh,CS,students_2021
+1129,1709140024,Ankit Parihar,ME,students_2021
+1130,1709113109,Swapnil Johri,IT,students_2021
+1131,1709121027,Hrithvik Sharma,EEE,students_2021
+1132,1709110027,Anant Shekhar Tiwari,CS,students_2021
+1133,1709110010,Abhishek Nirmal,CS,students_2021
+1134,1709120025,Anushka Singh,EE,students_2021
+1135,1709110069,Himanshu Srivastava,CS,students_2021
+1136,1709131037,Anvesha Shandilya,EC,students_2021
+1137,1709140090,Nitin Kumar,ME,students_2021
+1138,1709110166,Sudhanshu Singh,CS,students_2021
+1139,1709100078,Richa Dwivedi,CE,students_2021
+1140,1709131062,Harsh Yadav,EC,students_2021
+1141,1709110003,Aastik,CS,students_2021
+1142,1709131148,Shubham Sharma,EC,students_2021
+1143,1709110112,Prateek Singh,CS,students_2021
+1144,1709120092,Shipra Gupta,EC,students_2021
+1145,1709110153,Shivam Sangal,CS,students_2021
+1146,1709131163,Suyash Bakre,EC,students_2021
+1148,1709120038,Divyanshu Singh,EE,students_2021
+1149,1709110059,Daman Deep Singh,CS,students_2021
+1150,1709110067,Himanshi Sharma,CS,students_2021
+1151,1709110138,Sarthak Jain,CS,students_2021
+1152,1709110090,Minkal Chaudhary,CS,students_2021
+1153,1709131180,Vipin Bihari Yadav,EC,students_2021
+1154,1709113077,Radhika Bajaj,CS,students_2021
+1155,1709110076,Kartikeya Yadav,CS,students_2021
+1156,1709120098,Simran Jayaswal,EE,students_2021
+1158,1709110121,Raveena Singh,CS,students_2021
+1159,1709100082,Rukmani Gupta,CE,students_2021
+1160,1709140100,Pulkit Goyal,ME,students_2021
+1161,1709110104,Prakhar Varshney,CS,students_2021
+1162,1709140047,Divyanshu Shukla,ME,students_2021
+1163,1709131135,Shivam Jha,EC,students_2021
+1164,1809110921,Ritu Pandey,CS,students_2021
+1166,1709110179,Vartika Patel,CS,students_2021
+1168,1709131101,Prateek Jaiswal,EC,students_2021
+1170,1709110167,Surya Kant Swami,CS,students_2021
+1171,1709131075,Manan Mishra,EC,students_2021
+1172,1709113015,Ankit Raj,IT,students_2021
+1173,1709120055,Luv Pathak,EE,students_2021
+1174,1709113075,Priyanka Patel,IT,students_2021
+1175,1709140120,Sandeep Srivastava,ME,students_2021
+1176,1709110128,Riya Verma,CS,students_2021
+1177,1709113058,Mewanshi Katiyar,IT,students_2021
+1178,1809140921,Virat Vidhata,ME,students_2021
+1179,1709113011,Akshay Tomar,IT,students_2021
+1180,1709131145,Shruti Garg,EC,students_2021
+1181,1709110098,Nitin Kumar,CS,students_2021
+1182,1709140123,Santosh Kumar Verma,ME,students_2021
+1183,1709113125,Yash Kesarwani,IT,students_2021
+1184,1709113070,Prakhar Deep,IT,students_2021
+1185,1709121041,Pragati Gupta,CS,students_2021
+1186,1709140065,Kartikey Singh,EC,students_2021
+1187,1709131131,Shantnu,EC,students_2021
+1188,1709120115,Vansh Garg,EE,students_2021
+1189,1709120088,Saurav Kumar Singh,EE,students_2021
+1190,1709131115,Rupalee,EC,students_2021
+1191,1709110008,Abhipray Agarwal,CS,students_2021
+1192,1709113030,Chirag Singh,IT,students_2021
+1193,1709110127,Riya Jain,CS,students_2021
+1194,1809113904,Pawan Jindal,IT,students_2021
+1195,1709113040,Divyansh Chauhan,IT,students_2021
+1196,1809110923,Sara Ansari,CS,students_2021
+1197,1709113124,Yash Chaturvedi,IT,students_2021
+1198,1709113069,Prajjwal Maheshwari,IT,students_2021
+1200,1709113007,Akhil Omar,IT,students_2021
+1201,1709110061,Devansh Gupta,CS,students_2021
+1202,1809121011,Ashish Mishra,EC,students_2022
+1203,1809110082,Kumar Kislay,CS,students_2022
+1204,1809131108,Nitin Tomar,EC,students_2022
+1205,1809113071,Muskan Gupta,IT,students_2022
+1206,1809140057,Himanshu Khandelwal,ME,students_2022
+1207,1809120033,Deepanshu Sahu,EE,students_2022
+1208,1809131018,Akhil Kumar Singh,EC,students_2022
+1209,1809110048,Atishay Jain,CS,students_2022
+1210,1809113024,Aryaman Gupta,IT,students_2022
+1211,1809113107,Simran Katiyar,IT,students_2022
+1212,1809113003,Abhishek Pandey,IT,students_2022
+1213,1809131120,Prateek Maheshwari,EC,students_2022
+1214,1809113104,Shruti Sinha,IT,students_2022
+1215,1809110046,Ashutosh Pratap Singh,CS,students_2022
+1216,1809110102,Nikhil Saini,CS,students_2022
+1217,1809110010,Abhishek Chandra,CS,students_2022
+1218,1809113042,Dheeraj Pachauri,IT,students_2022
+1219,1809110108,Pankaj Kumar,CS,students_2022
+1220,1809110026,Aman Gupta,CS,students_2022
+1221,1809120043,Hrishabh Verma,EE,students_2022
+1222,1809131060,"Brahmanshu Pati 
+Tripathi",EC,students_2022
+1223,1809110091,Mohd Gausul Alam,CS,students_2022
+1224,1809140108,Ritesh Gupta,ME,students_2022
+1225,1809120081,Shreya Srivastava,EE,students_2022
+1226,1809131170,Varun Sharma,EC,students_2022
+1227,1809110055,Devang Shukla,CS,students_2022
+1228,1809120095,Tanya Porwal,EE,students_2022
+1229,1809113065,Mohammad Shoaib,IT,students_2022
+1230,1809120078,Saurabh Singh,EE,students_2022
+1231,1809131127,Rishit Sethi,EC,students_2022
+1232,1809131142,Shivang Garg,EC,students_2022
+1233,1809113007,Akhil Kumar Singh,IT,students_2022
+1234,1809110182,Yash Mishra,CS,students_2022
+1235,1809121040,Syed Mohd Farhan,EC,students_2022
+1236,1809113023,Arjit Singh Kushwaha,IT,students_2022
+1237,1809121046,Vaibhav Sen,EEE,students_2022
+1238,1809131121,Prem Kumar,EC,students_2022
+1239,1809131151,Shristhi Jaiswal,EC,students_2022
+1240,1809113103,Shristi Singh,IT,students_2022
+1241,1809140090,Prabhat Kaushik,ME,students_2022
+1242,1809131143,Shivangi Singhal,EC,students_2022
+1243,1809121019,Katyayni Raghuvanshi,EC,students_2022
+1244,1809120004,Abhijeet Kumar Singh,EE,students_2022
+1245,1809140037,Ateesh Saxena,ME,students_2022
+1246,1809110062,Gaur Kartikeya,CS,students_2022
+1247,1809131049,Arjun Kesharwani,EC,students_2022
+1248,1809110163,Tanmay Jain,CS,students_2022
+1249,1809110057,Devansh Gera,CS,students_2022
+1250,1809131106,Nimish Rastogi,EC,students_2022
+1251,1809110069,Harsh Chaudhary,CS,students_2022
+1252,1809113087,Sajal Jain,IT,students_2022
+1253,1809131038,Anmol Garg,EC,students_2022
+1254,1809110001,Aadarsh Neeraj Singh,CS,students_2022
+1255,1809121013,"Avneesh Kumar 
+Srivastava",EEE,students_2022
+1256,1809113064,"Meghansh Pankaj 
+Teotia",IT,students_2022
+1257,1809110168,Vaibhav Bhatt,CS,students_2022
+1258,1809131146,Shradha Anand,EC,students_2022
+1259,1809110090,Mohd Anas Vohra,CS,students_2022
+1260,1809121023,Mansi,EEE,students_2022
+1261,1809113096,Shashank Shekhar,IT,students_2022
+1262,1809140110,Rohit Sati,ME,students_2022
+1263,1809110084,Mahesh Sehgal,CS,students_2022
+1264,1809100056,Prabhat Singh,CE,students_2022
+1265,1809140039,Ayan Ghosh,ME,students_2022
+1266,1809131157,Sudhanshu Yadav,EC,students_2022
+1267,1809113011,Anant Kapoor,IT,students_2022
+1268,1809131013,Aishwary Jaiswal,EC,students_2022
+1269,1809113086,Sachin Verma,IT,students_2022
+1270,1809110141,Saurabh Singh,CS,students_2022
+1271,1809121038,Sunil Keshari,EEE,students_2022
+1272,1809140132,Swasti Kaushik,ME,students_2022
+1273,1809131122,Rachit Goel,EC,students_2022
+1274,1809110146,Shivansh Singh,CS,students_2022
+1275,1809131029,Aniket Tyagi,EC,students_2022
+1276,1809121053,Yashika Jain,EC,students_2022
+1277,1809113058,Kartik Goswani,IT,students_2022
+1278,1809110122,Priyanshu Singh,CS,students_2022
+1279,1809131064,Devesh Sharma,EC,students_2022
+1280,1809110037,Anunay Anand,CS,students_2022
+1281,1809131169,Vanshita Srivastava,EC,students_2022
+1282,1809110098,Narshi Ahlawat,CS,students_2022
+1283,1809131096,Mayank Soni,EC,students_2022
+1284,1809113035,Deepali Pathak,IT,students_2022
+1285,1809110180,Vivek Singh,CS,students_2022
+1286,1809100094,Srijan Singh,CE,students_2022
+1287,1809110044,Ashutosh Aggarwal,CS,students_2022
+1288,1809120091,Swapnil Verma,EE,students_2022
+1289,1809140078,Monika Arya,ME,students_2022
+1290,1809131023,Ambica Baghel,EC,students_2022
+1291,1809113072,Muskan Joshi,IT,students_2022
+1292,1809110034,Ankit Singh,CS,students_2022
+1293,1809120034,Divyanshu Gupta,EC,students_2022
+1294,1809131067,Dishank Tyagi,EC,students_2022
+1295,1809131139,Shatakshi Shukla,EC,students_2022
+1296,1809140141,Vanshika Singh,ME,students_2022
+1297,1809131148,Shreya Gupta,EC,students_2022
+1298,1809120035,Garima Hans,EE,students_2022
+1299,1809113061,Manish Kumar Yadav,IT,students_2022
+1300,1809131179,Vishnu Rai,EC,students_2022
+1301,1809100036,Diya Varshney,EC,students_2022
+1302,1809131011,Aditya Prakash Dubey,EC,students_2022
+1303,1809140045,Bhavy Arora,ME,students_2022
+1304,1809131068,Divisha,EC,students_2022
+1305,1809110110,Paurush Tiwari,CS,students_2022
+1306,1809110152,Shubh Sharma,CS,students_2022
+1307,1809131107,Nitin Patel,EC,students_2022
+1308,1809131110,Pallavi Yadav,EC,students_2022
+1309,1809131090,Kumar Lakshya,EC,students_2022
+1310,1809140069,Kumbhaj Mishra,ME,students_2022
+1311,1809131077,Hardik Agarwal,EC,students_2022
+1312,1809110184,Yashi Gupta,CS,students_2022
+1313,1809113080,Rachit Goyal,IT,students_2022
+1314,1809110129,Rashmi Singh,CS,students_2022
+1315,1809140010,Aishwarya Sen Yadav,ME,students_2022
+1316,1809113057,Kanha Singhal,IT,students_2022
+1317,1809131040,Ansh Gupta,EC,students_2022
+1318,1809131141,Shivam Nayak,EC,students_2022
+1319,1809120090,Suryansh Pal,EE,students_2022
+1320,1809131017,Akash Shukla,EC,students_2022
+1321,1809110120,Priya Singh,CS,students_2022
+1322,1809131094,Manaswini Sinha,EC,students_2022
+1323,1809120082,Shreyash Verma,EE,students_2022
+1324,1809121021,Kunal Maheshwari,EEE,students_2022
+1325,1809113095,Sharad Mehrotra,IT,students_2022
+1326,1809110131,Rishabh Sharma,CS,students_2022
+1327,1809120077,Saurabh Prakash,EE,students_2022
+1328,1809120023,Aryan Tomar,EE,students_2022
+1329,1809110140,Saransh Gupta,CS,students_2022
+1330,1809110077,Km Pratibha Gupta,CS,students_2022
+1331,1809131037,Ankush Tomar,EC,students_2022
+1332,1809110089,"Mohammad Zaid 
+Ansari",CS,students_2022
+1333,1809131100,"Mohammad Ismail 
+Qadri",EC,students_2022
+1334,1809110105,Nripesh Kumar,CS,students_2022
+1335,1809140047,Damodar Verma,ME,students_2022
+1336,1809121041,Tanya,EE,students_2022
+1337,1809120052,Lavi Kumari,EC,students_2022
+1338,1809131014,Ajit Singh Gangwar,EC,students_2022
+1339,1809110027,Aman Rai,CS,students_2022
+1340,1809120087,Sristi Swroop,EE,students_2022
+1341,1809131117,Prashant Agarwal,EC,students_2022
+1342,1809113040,Dheeraj Kotwani,IT,students_2022
+1343,1809131084,Kanishka Tripathi,EC,students_2022
+1344,1809131024,Ambuj Maheshwari,EC,students_2022
+1345,1809110160,Sparsh Gupta,CS,students_2022
+1346,1809100015,Ankit Poddar,CE,students_2022
+1347,1809131150,Shreyanshu,EC,students_2022
+1348,1809131081,Ishan Rai,EC,students_2022
+1349,1809140123,Shubha Patel,ME,students_2022
+1350,1809131116,Pranay Kumar Khare,EC,students_2022
+1351,1809110107,Pankaj Changra,CS,students_2022
+1352,1809131057,"Ayushmaan Mani 
+Tripathi",EC,students_2022
+1353,1809110103,Nikhil Sharma,CS,students_2022
+1354,1809113051,Harsh Kedia,IT,students_2022
+1355,1809110106,Palak Gupta,CS,students_2022
+1356,1809120066,Rahul Namdev,EE,students_2022
+1357,1809131172,Vedika Mishra,EC,students_2022
+1358,1809131041,Anubhav Gupta,EC,students_2022
+1359,1809120101,Vasu Dev Yadav,EE,students_2022
+1360,1809113102,Shristi Gupta,IT,students_2022
+1361,1809110072,Jagriti Agarwal,CS,students_2022
+1362,1809131044,Anukarsh Raj Singh,EC,students_2022
+1363,1809131070,Divya Srivastava,EC,students_2022
+1364,1809110099,"Neelesh Bhushan 
+Pandey",CS,students_2022
+1365,1809110019,Aishwarya Janardhan,CS,students_2022
+1366,1809140079,Nakul Loomba,ME,students_2022
+1367,1809110060,Diya Jaiswal,CS,students_2022
+1368,1809110041,Arpita Verma,CS,students_2022
+1369,1809113091,Sarthak Dixit,IT,students_2022
+1370,1809110025,Aman Singh,CS,students_2022
+1371,1809120097,Tiasha Jash,EE,students_2022
+1372,1809113022,Archit Chaudhary,IT,students_2022
+1373,1809120073,"Samerthya Kumar 
+Pandey",EE,students_2022
+1374,1809131103,Nancy Shukla,EC,students_2022
+1376,1809131184,Yogesh Kumar,EC,students_2022
+1377,1809131154,Sneha Jain,EC,students_2022
+1378,1809120079,Shivansh Mishra,EE,students_2022
+1379,1809131033,Anjanah D,EC,students_2022
+1380,1809131001,Aakriti Verma,EC,students_2022
+1381,1809131162,Tushar Srivastava,EC,students_2022
+1382,1809140092,Pragya Gupta,ME,students_2022
+1383,1809113025,Aryaman Singh,IT,students_2022
+1384,1809110171,Vedant Raj Kavi,CS,students_2022
+1385,1809113049,Gyanesh Sharma,IT,students_2022
+1386,1809100011,Aman Tomar,CE,students_2022
+1387,1809100026,Ashutosh,CE,students_2022
+1388,1809140107,Rita Kaushik,ME,students_2022
+1389,1809140152,Wali Muneer,ME,students_2022
+1390,1809120060,Pratyush Rai,EE,students_2022
+1391,1809110179,Vivek Kumar,CS,students_2022
+1392,1809131022,Aman Maheshwari,IT,students_2022
+1393,1809131168,Vansham Jaiswal,EC,students_2022
+1394,1809113116,Utkarsh Kumar Singh,IT,students_2022
+1395,1809110145,Shivansh Pal,CS,students_2022
+1396,1809131066,Dhruv Goenka,EC,students_2022
+1397,1809120031,Bhawana Jaiswal,EE,students_2022
+1398,1809113059,Krishanki Jaiswal,IT,students_2022
+1399,1809121015,Biplav Singh,EEE,students_2022
+1400,1809110126,Rajat Verma,CS,students_2022
+1401,1809131129,Ritvik,EC,students_2022
+1402,1809131134,Samiksha Gupta,EC,students_2022
+1403,1809120028,Awneesh Kumar,EE,students_2022
+1404,1809131158,Surchi Gupta,EC,students_2022
+1405,1809131166,Vaishali Kasondhan,CS,students_2022
+1406,1809110087,Mihir Gupta,CS,students_2022
+1407,1809113032,Ayush Omer,IT,students_2022
+1408,1809131006,Abhishek Kumar,EC,students_2022
+1409,1809140052,Har Vishvas Bahadur,ME,students_2022
+1410,1809131009,Aditi Sharma,EC,students_2022
+1411,1809131010,Aditya Kumar,EC,students_2022
+1412,1809113015,Anshul Gupta,IT,students_2022
+1413,1809110005,Abhay Gupta,CS,students_2022
+1414,1809113048,Ghanshyam Pal,IT,students_2022
+1415,1809110076,Kaushlendra Singh,CS,students_2022
+1416,1809131163,Vaibhav Pal,EC,students_2022
+1417,1809113036,Deepanshu Singh,IT,students_2022
+1418,1809113053,Ishika Goel,IT,students_2022
+1419,1809131155,Snigdha Maurya,EC,students_2022
+1420,1809113082,Rahul Kasaudhan,IT,students_2022
+1421,1809110033,Anjul Singh,CS,students_2022
+1422,1809140118,Shivam Juneja,EC,students_2022
+1423,1809140046,Chirag,ME,students_2022
+1424,1809131130,Ruchi Sharma,EC,students_2022
+1425,1809110070,Harsh Yadav,CS,students_2022
+1426,1809110030,Ananya Agarwal,CS,students_2022
+1427,1809140067,Kritika Yadav,ME,students_2022
+1428,1809140006,Aditya Kumar,ME,students_2022
+1429,1809113097,Shirish Sharma,IT,students_2022
+1430,1809140126,Siddhartha Tripathi,ME,students_2022
+1431,1809113004,Abhishek Singh,IT,students_2022
+1432,1809100099,Utkarsh Jaiswal,CE,students_2022
+1433,1809131164,Vaibhav Raj,EC,students_2022
+1434,1809131058,Bharat Babu Rawat,EC,students_2022
+1435,1809110063,Gaurang Agarwal,CS,students_2022
+1436,1809131025,Amit Kumar Singh,EC,students_2022
+1437,1809110067,Gunjita Wahi,CS,students_2022
+1438,1809113105,Siddh Nigam,IT,students_2022
+1439,1809113063,Manshi Todi,IT,students_2022
+1440,1809120003,Abhay Singh,EE,students_2022
+1441,1809131119,Prastuti Gupta,EC,students_2022
+1442,1809140115,Saurabh Yadav,ME,students_2022
+1443,1809120058,Prabhat Kumar,EE,students_2022
+1444,1809110054,Chaman Gupta,CS,students_2022
+1445,1809110144,Shivam Singh Jadaun,CS,students_2022
+1446,1809131153,Siddhant Singh,EC,students_2022
+1447,1809113099,Shivangi,IT,students_2022
+1448,1809140043,Bhanu Sehrawat,ME,students_2022
+1449,1809113069,Mohit Tayal,IT,students_2022
+1450,1809113117,Vaibhav Kumar,IT,students_2022
+1451,1809113030,Avinash Srivastav,IT,students_2022
+1452,1809131056,Ayushi Gupta,EC,students_2022
+1453,1809110143,Shivam Singh,CS,students_2022
+1454,1809113094,Shantanu Rathor,IT,students_2022
+1455,1809110100,Nidhi Rajput,CS,students_2022
+1456,1809110002,Aakash Yadav,CS,students_2022
+1457,1809131035,Ankit Kumar Singh,EC,students_2022
+1458,1809113088,Sakshi Parashar,IT,students_2022
+1459,1809110116,Prajwal S S,CS,students_2022
+1460,1809110080,Kratika Tiwari,CS,students_2022
+1461,1809120061,Prince Bharti,EE,students_2022
+1462,1809120026,Ashwani Gupta,EE,students_2022
+1463,1809131123,Rajeev Verma,EC,students_2022
+1464,1809121017,Ishita Sharma,EEE,students_2022
+1465,1809110130,Riddhi Jain,CS,students_2022
+1466,1809110093,"Mritunjay Kumar 
+Sharma",CS,students_2022
+1467,1809131126,Rishabh Srivastava,EC,students_2022
+1468,1809131032,Anjali Parashar,EC,students_2022
+1469,1809140134,Tanmay Jha,ME,students_2022
+1470,1809121002,Akash Verma,EEE,students_2022
+1471,1809113020,Anurag Kumar,IT,students_2022
+1472,1809110047,"Ashutosh Swarup 
+Srivastava",CS,students_2022
+1473,1809140031,Aryan Srivastava,EC,students_2022
+1474,1809131046,Anushka Agrawal,EC,students_2022
+1475,1809131027,Ananya Srivastava,EC,students_2022
+1476,1809131171,Vatsal Mehrotra,EC,students_2022
+1477,1809131093,Lovely Singh,EC,students_2022
+1478,1809113092,Sarthak Yadav,IT,students_2022
+1479,1809131125,Riddhi Gupta,CS,students_2022
+1480,1809120008,Aditi Gupta,EE,students_2022
+1481,1809140002,Abhishek Kesharwani,ME,students_2022
+1482,1809113060,Lovish Rajput,IT,students_2022
+1483,1809131101,Mukti Sharma,EC,students_2022
+1484,1809131073,Divye Gupta,EC,students_2022
+1485,1809131005,"Abhishek Chand 
+Kaushik",EC,students_2022
+1486,1809110176,Vishal Bhati,CS,students_2022
+1487,1809110068,Harsh Agarwal,CS,students_2022
+1488,1809113118,Vaishnavi Tiwari,IT,students_2022
+1489,1809120002,Abhay Krishna Pandey,EE,students_2022
+1490,1809131026,Amit Shukla,EC,students_2022
+1491,1809113077,Parthvi Singh,IT,students_2022
+1492,1809120059,Pratham Pandey,EE,students_2022
+1493,1809131061,Chetna Sharma,EC,students_2022
+1494,1809113108,Sparsh Thareja,IT,students_2022
+1495,1809110154,Shubham Saurabh,CS,students_2022
+1496,1809140038,Atul Singh,ME,students_2022
+1497,1809113006,Aditya Kumar Sharma,IT,students_2022
+1498,1809110097,Naman Kaushik,CS,students_2022
+1499,1809110074,Jatin Minocha,CS,students_2022
+1500,1809110043,Arya Raj Singh,CS,students_2022
+1501,1809120109,Zoya Mohsin,EE,students_2022
+1502,1809110049,Atul Singh,CS,students_2022
+1503,1809113083,Rajat Gupta,IT,students_2022
+1504,1809121025,Nehul Choudhary,EEE,students_2022
+1505,1809113122,Vivek Saroha,IT,students_2022
+1506,1809140024,Anup Chooramani,ME,students_2022
+1507,1809113038,Devansh Agarwal,IT,students_2022
+1508,1809131097,Mehul Sinha,EC,students_2022
+1509,1809140036,Ashutosh Kushwaha,ME,students_2022
+1510,1809120030,B Geetansh,EE,students_2022
+1511,1809131132,Saksham Mathur,EC,students_2022
+1512,1809131145,Shobhit Bhattacharya,EC,students_2022
+1513,1809110004,Aayush Tripathi,CS,students_2022
+1514,1809131020,Akshat Maheshwari,EC,students_2022
+1515,1809113084,Ritika Jain,IT,students_2022
+1516,1809110121,Priyansh Saxena,CS,students_2022
+1517,1809120041,Harshil Singh,EE,students_2022
+1518,1809121034,Shreya Tyagi,EEE,students_2022
+1519,1809131065,Dewang Flodya,EC,students_2022
+1520,1809113126,Yash Vardhan Verma,IT,students_2022
+1521,1809110096,Naman Jain,CS,students_2022
+1522,1809131091,Palak Srivastava,EC,students_2022
+1523,1809140124,Shubham Jain,ME,students_2022
+1524,1809113115,Ujjwal Gupta,IT,students_2022
+1525,1809110124,Rachit Tandon,CS,students_2022
+1526,1809131076,Gaurav Kumar Gautam,EC,students_2022
+1527,1809110151,Shreyansh Ayanger,CS,students_2022
+1529,1809110104,Nipun Kumar Gupta,CS,students_2022
+1530,1809113041,Dheeraj Kumar,IT,students_2022
+1531,1809131104,Nikhil Varshney,EC,students_2022
+1532,1809131156,Srishty Choudhary,EC,students_2022
+1533,1809131138,Shalabh Bansal,EC,students_2022
+1534,1809110101,Nihal Pandey,CS,students_2022
+1535,1809110185,Yogya Singhal,CS,students_2022
+1536,1809110178,Vishwas Bhaskar,CS,students_2022
+1537,1809110181,Yash Khare,CS,students_2022
+1538,1809131105,Nilesh Shakya,EC,students_2022
+1539,1809131071,Divyam Pandey,EC,students_2022
+1540,1809113054,Ishita Goudar,IT,students_2022
+1541,1809110020,Aishwarya Nayak,CS,students_2022
+1542,1809113113,Swapnil Jaiswal,IT,students_2022
+1543,1809110111,Piyush Choudhary,CS,students_2022
+1544,1809110075,Kartiki Sagar,CS,students_2022
+1545,1809110127,Rajeev Sachan,CS,students_2022
+1546,1809113109,Surabhi Srivastava,IT,students_2022
+1547,1809113121,Vishnu Barman,IT,students_2022
+1548,1809131137,Shagun Pandit,EC,students_2022
+1549,1809110149,Shreya Gupta,CS,students_2022
+1550,1809113066,Mohd Usman Barkaati,IT,students_2022
+1551,1809131109,Palak Tripathi,EC,students_2022
+1552,1809140026,Arpit Arora,ME,students_2022
+1553,1809140071,Lakshya Srivastava,CS,students_2022
+1554,1809110064,Gaurav,CS,students_2022
+1555,1809113125,Yash Raj Singh,IT,students_2022
+1556,1809113073,Naman Jaiswal,IT,students_2022
+1557,1809140022,Anubhav Kumar,ME,students_2022
+1558,1809120094,Tanusha Singh,EE,students_2022
+1559,1809121006,Anshika Gupta,EEE,students_2022
+1560,1809110136,Rohit Rana,CS,students_2022
+1561,1809113124,Yash Kumar Tyagi,IT,students_2022
+1562,1809100093,Sparsh Mathur,CE,students_2022
+1563,1809113101,Shreshtha Devgan,IT,students_2022
+1564,1809113093,Sehaj Walia,IT,students_2022
+1565,1809131167,Vaishnavi Varshney,EC,students_2022
+1566,1809110028,Aman Yadav,CS,students_2022
+1567,1809131039,Anoushka Ahlawat,EC,students_2022
+1568,1809110170,Vatsal Kesarwani,CS,students_2022
+1569,1809131036,Ankit Maddhesia,EC,students_2022
+1570,1809140121,Shivam Srivastava,ME,students_2022
+1571,1809110094,Muskaan Singh,CS,students_2022
+1572,1809120029,Batool Fatima,EE,students_2022
+1573,1809113029,Avi Singh,IT,students_2022
+1575,1809113001,Aakriti Prasad,IT,students_2022
+1576,1809131028,Aniket,EC,students_2022
+1577,1809131181,Yash Saxena,EC,students_2022
+1578,1809120067,Rashi Gupta,EE,students_2022
+1579,1809113033,Bharti Chahal,IT,students_2022
+1580,1809140146,Vedant Johari,ME,students_2022
+1581,1809113070,"Mukul Mohan 
+Varshney",IT,students_2022
+1582,1809113039,Dhananjay Yadav,IT,students_2022
+1583,1809140100,Priyanshu Raj Patel,ME,students_2022
+1584,1809113010,Aman Pratap Singh,IT,students_2022
+1585,1809140145,Vatsal Khosla,ME,students_2022
+1586,1809120012,Akanksha Gupta,EE,students_2022
+1587,1809120049,Khushbuddin Alam,EE,students_2022
+1588,1809113014,Ansh Agarwal,IT,students_2022
+1589,1809110186,Yuvraj Singh,CS,students_2022
+1590,1809113050,Harsh Verma,IT,students_2022
+1591,1809110165,Tarun Yadav,CS,students_2022
+1592,1809110061,Eshna Airon,CS,students_2022
+1593,1809140051,Divyansh Singh,EE,students_2022
+1594,1809131113,Prachi Singh,EC,students_2022
+1595,1809110139,Sakshi Yadav,CS,students_2022
+1596,1809100040,Harshita Sahu,EC,students_2022
+1597,1809110018,Aditya Sharma,CS,students_2022
+1598,1809113047,Gargi Yadav,IT,students_2022
+1599,1809113013,Ankush Kumar,IT,students_2022
+1600,1809110112,Poorvi Maheshwari,CS,students_2022
+1601,1809113017,Anshul Kumar Singh,IT,students_2022
+1602,1809131112,Prabha Kumari,CS,students_2022
+1603,1809140028,Arpit Tiwari,ME,students_2022
+1604,1809120056,Nilesh Yadav,EE,students_2022
+1605,1809120051,Kunal Paliwal,EE,students_2022
+1606,1809110006,Abhay Tyagi,CS,students_2022
+1607,1809140034,Ashmita Yadav,ME,students_2022
+1608,1809140099,Priyanshu,ME,students_2022
+1609,1809113005,Adarsh Kumar,IT,students_2022
+1610,1809140091,Praduman Tiwari,ME,students_2022
+1611,1809140114,Saumya Gautam,ME,students_2022
+1612,1809131159,Swati Gangwar,EC,students_2022
+1613,1809131161,Trisha Singh,EC,students_2022
+1614,1809110183,Yashi Srivastava,CS,students_2022
+1615,1809140027,Arpit Singh Chauhan,ME,students_2022
+1616,1809140054,Harshit Singh,ME,students_2022
+1617,1809113074,Neeraj Singh Bisht,IT,students_2022
+1618,1809113079,Puru Jain,IT,students_2022
+1619,1809110042,Aryan Chaudhary,CS,students_2022
+1620,1809131136,Satwik Dwivedi,EC,students_2022
+1621,1809120063,Raghav Goel,EE,students_2022
+1622,1809120075,"Satyam Singh 
+Kushwah",EE,students_2022
+1623,1809110113,Pradeep Kumar,CS,students_2022
+1624,1809113111,Surya Pratap Singh,IT,students_2022
+1625,1809113052,Himanshu Bharti,IT,students_2022
+1626,1809131016,Akash Gupta,EC,students_2022
+1627,1809110007,Abhinav Chaudhary,CS,students_2022
+1628,1809113120,Vishal Trivedi,IT,students_2022
+1629,1809110115,Prajwal Choudhary,CS,students_2022
+1630,1809110003,Aanchal Sharma,CS,students_2022
+1631,1809131180,Vishrut Sharma,EC,students_2022
+1632,1809131152,Shubham Singh,EC,students_2022
+1633,1809131099,"Mohammad Ammar 
+Khan",EC,students_2022
+1634,1809140020,Ankit Chaturvedi,ME,students_2022
+1635,1809131124,Raksha Yadav,EC,students_2022
+1636,1809131098,Mitali Gupta,EC,students_2022
+1637,1809110016,Aditya Kumar Gupta,CS,students_2022
+1638,1809131043,Anuj Kumar Maurya,EC,students_2022
+1639,1809121032,Riya Tohangar,EEE,students_2022
+1640,1809113075,Nikita Kashyap,IT,students_2022
+1641,1809110095,Muskan Razdan,CS,students_2022
+1642,1809120084,Shubhi Sehrawat,EE,students_2022
+1643,1809131118,Prashant Porwal,EC,students_2022
+1644,1809140055,Harshit Srivastava,ME,students_2022
+1645,1809120009,Aditya Saurabh,EE,students_2022
+1646,1809120093,Tanuj Yadav,EE,students_2022
+1647,1809113021,Apoorva Verma,IT,students_2022
+1648,1809110173,Vikas Kumar,CS,students_2022
+1649,1809131048,Aradhana Jaiswal,EC,students_2022
+1650,1809110040,Arihant Jain,CS,students_2022
+1651,1809110167,Vagish Kumar Gupta,CS,students_2022
+1652,1809131008,Aditi,EC,students_2022
+1653,1809131087,Kritika Gupta,EC,students_2022
+1654,1809140032,Ashish Prajapati,ME,students_2022
+1655,1809113081,Rahul Agnihotri,IT,students_2022
+1656,1809120050,Kritika Singh,EE,students_2022
+1657,1809131135,Sanya Gupta,EC,students_2022
+1658,1809100055,Palak Arya,CE,students_2022
+1659,1809100096,Swati Dubey,CE,students_2022
+1660,1809120098,Toshiba Devpuria,EE,students_2022
+1661,1809131051,Ashish Bani,EC,students_2022
+1662,1809140060,Jagmohan Prasad,EC,students_2022
+1663,1809110117,Prakhar Agarwal,CS,students_2022
+1664,1809120099,Ujjwal Ranjan,EE,students_2022
+1665,1809113110,Suraj Agrawal,IT,students_2022
+1666,1809131147,Shreya Garg,EC,students_2022
+1667,1809110073,Jahnvi Sharma,CS,students_2022
+1668,1809121009,Arpit Sharma,EEE,students_2022
+1669,1809120083,Shubham,EE,students_2022
+1670,1809110021,Akansha Singh,CS,students_2022
+1671,1809110125,Raghav Bajaj,CS,students_2022
+1672,1809110114,Pragati Verma,CS,students_2022
+1673,1900910130026,Anurag Srivastava,IT,students_2023
+1674,1900910310196,Yashi Agarwal,ECE,students_2023
+1675,2000910409016,Vikas Patel,ME,students_2023
+1677,1900910400055,Divyansh Sharma,ME,students_2023
+1678,1900910310158,Shreyanshi Agarwal,ECE,students_2023
+1679,1900910130051,Harshit Pratap Singh,IT,students_2023
+1680,1900910100068,Gaurav Gupta,CSE,students_2023
+1681,1900910200022,Anushka Srivastava,EE,students_2023
+1682,1900910100075,Kapil Chauhan,CSE,students_2023
+1683,1900910130041,Dimple,IT,students_2023
+1684,1900910100198,Vishal Parashar,CSE,students_2023
+1685,1900910100051,Ayush Teotia,CSE,students_2023
+1686,1900910130086,Pankaj Kumar,IT,students_2023
+1687,1900910130075,Mritunjay Gupta,IT,students_2023
+1688,1900910130068,Manas Gautam,IT,students_2023
+1689,1900910310078,Kartik Singh,ECE,students_2023
+1690,1900910310012,Abhishek Singh,ECE,students_2023
+1691,1900910130127,Vasu Singh,IT,students_2023
+1692,1900910210018,Anusha Chaudhary,EEE,students_2023
+1693,1900910100180,Suryansh Rastogi,CSE,students_2023
+1694,1900910310085,Kratika Kaushik,ECE,students_2023
+1695,1900910100162,Shruti Agarwal,CSE,students_2023
+1696,1900910400152,Varun Bhardwaj,ME,students_2023
+1697,1900910130125,Utsav Arora,IT,students_2023
+1698,1900910310106,Nitin Kumar Singh,ECE,students_2023
+1699,1900910130082,Nishant Raghuvanshi,IT,students_2023
+1700,1900910100014,Aditya Chaudhary,CSE,students_2023
+1701,1900910130078,Nancy Mahl,IT,students_2023
+1702,1900910130003,Abhinav Yadav,IT,students_2023
+1703,1900910400105,Rishi Chhabra,CSE,students_2023
+1704,1900910100073,Indira Vats,CSE,students_2023
+1705,1900910100197,Vinayak,CSE,students_2023
+1706,1900910100196,Vikram Yadav,CSE,students_2023
+1707,1900910310054,Ayush Patel,ECE,students_2023
+1708,1900910130053,Harshit Tiwari,IT,students_2023
+1709,1900910200024,Avnish Rathaur,EE,students_2023
+1710,1900910100061,Dheerendra Singh,CSE,students_2023
+1712,1900910130031,Ashutosh Jaiswal,IT,students_2023
+1713,2000910109006,Kuldeep Kumar,CSE,students_2023
+1714,1900910210064,Yash Bhardwaj,EEE,students_2023
+1715,1900910310110,Pragya Pant,ECE,students_2023
+1716,1900910000116,Vinayak Sharma,CE,students_2023
+1717,1900910400144,Tushar Kumar,ME,students_2023
+1718,1900910100002,Aaroosh Agarwal,CSE,students_2023
+1719,1900910210063,Vivek Kumar,EEE,students_2023
+1720,2000910139004,Kushagra Jaiswal,IT,students_2023
+1722,1900910200088,Srajan Skumar,EE,students_2023
+1723,1900910100099,Nandini Jindal,CSE,students_2023
+1724,1900910400063,Hritik Raman Sharma,ME,students_2023
+1725,1900910310198,Yogesh Rathore,ECE,students_2023
+1727,1900910130062,Khushi Naudiyal,IT,students_2023
+1728,1900910100140,Sahil Ansari,CSE,students_2023
+1729,1900910130115,Suyesha Chaudhary,IT,students_2023
+1730,1900910400006,Abhinav Mishra,ME,students_2023
+1731,1900910200076,Shashikant Mishra,EE,students_2023
+1732,1900910130104,Ritu Singh,IT,students_2023
+1733,1900910310055,Ayush Gupta,ECE,students_2023
+1734,2000910319008,Naina Rani,ECE,students_2023
+1735,1900910100131,Ravikant,CSE,students_2023
+1736,1900910130076,Nakul Srivastava,IT,students_2023
+1737,1900910100146,Samriddhi Chauhan,CSE,students_2023
+1738,1900910310018,Aditya Sharma,ECE,students_2023
+1739,1900910400003,Abhijeet Rajvanshi,ME,students_2023
+1740,1900910400065,Imran Ahmed Khan,ME,students_2023
+1741,1900910310169,Siddhartha Maurya,ECE,students_2023
+1742,1900910100080,Kendra Bansal,CSE,students_2023
+1743,1900910100062,Dhrubb Gupta,CSE,students_2023
+1744,1900910400007,Abhishek Rajput,ME,students_2023
+1745,1900910000048,Harsh Maurya,CE,students_2023
+1747,1900910400091,Prashant Singh,ME,students_2023
+1750,1900910400029,Anmol Agarwal,ME,students_2023
+1751,1900910100033,Anubhav Pandey,CSE,students_2023
+1753,1900910130072,Mohit Singh,IT,students_2023
+1754,1900910130019,Anamta Ansari,IT,students_2023
+1755,1900910100022,Alok Dubey,CSE,students_2023
+1756,1900910310079,Kartik Upreti,ECE,students_2023
+1757,1900910310080,Kartikeya Mishra,ECE,students_2023
+1758,1900910100125,Priyanshu Jain,CSE,students_2023
+1760,1900910310083,Khushi Agrawal,ECE,students_2023
+1761,1900910100060,Devansh Batra,CSE,students_2023
+1762,1900910130108,Sarthak Garg,IT,students_2023
+1764,1900910100185,Tushar Srivastava,CSE,students_2023
+1765,1900910400069,Kartikey Singh,ME,students_2023
+1766,2000910209009,Sonali Gupta,EE,students_2023
+1767,1900910130020,Anisha Singh,IT,students_2023
+1768,1900910000114,Vasu Tyagi,CE,students_2023
+1769,2000910319010,Nivedita Majumdar,ECE,students_2023
+1770,1900910210041,Pranjal Balyan,EEE,students_2023
+1771,2000910409009,Kartik Goyal,ME,students_2023
+1772,1900910100055,Ayushi Jain,CSE,students_2023
+1773,1900910100019,Akshat Suri,CSE,students_2023
+1774,1900910100193,Vani Singh,CSE,students_2023
+1775,1900910100012,Aditi Sharma,CSE,students_2023
+1776,1900910310028,Anant Parashar,ECE,students_2023
+1777,1900910200070,Sahil Gupta,EE,students_2023
+1778,1900910310144,Satvik Kumar,ECE,students_2023
+1781,1900910200077,Shashwat Mehrotra,EE,students_2023
+1782,1900910100154,Sheikh Mohammad Adil,CSE,students_2023
+1783,1900910310180,Tushar Awasthi,ECE,students_2023
+1784,1900910310118,Prince Verma,ECE,students_2023
+1785,1900910200007,Adamya Singh,EE,students_2023
+1786,1900910310115,Pratulya Dimri,ECE,students_2023
+1787,1900910130113,Sujal Gupta,IT,students_2023
+1788,1900910310026,Anand Dixit,ECE,students_2023
+1789,1900910200044,Manthan Srivastava,EE,students_2023
+1790,1900910200046,Manya,EE,students_2023
+1791,1900910310062,Chinmayee Verma,ECE,students_2023
+1792,1900910100138,Riya Goyal,CSE,students_2023
+1793,1900910100110,Ojuswi Rastogi,CSE,students_2023
+1795,1900910310188,Utkarsh Sharma,ECE,students_2023
+1796,1900910310013,Adarsh Dubey,ECE,students_2023
+1797,1900910310063,Chirag Varshney,ECE,students_2023
+1798,1900910310011,Abhishek Rawat,ECE,students_2023
+1800,1900910000045,Gaurav Soni,CE,students_2023
+1801,2000910209008,Shivam Maurya,EE,students_2023
+1802,1900910100030,Anmol Mishra,CSE,students_2023
+1803,1900910130097,Raghav Tripathi,IT,students_2023
+1804,1900910130132,Warisha Laique,IT,students_2023
+1805,1900910100194,Varnika Choudhary,CSE,students_2023
+1806,1900910100089,Mihir Sahai,CSE,students_2023
+1807,2000910139002,Ankit Tripathi,IT,students_2023
+1808,2000910139001,Ambika Singh,IT,students_2023
+1809,1900910400062,Himanshu Singh,ME,students_2023
+1811,1900910310069,Divyanshu Sharma,ECE,students_2023
+1812,1900910210035,Mohd Ali,EEE,students_2023
+1813,1900910130107,Saksham Garg,IT,students_2023
+1814,1900910130016,Alok Sharma,IT,students_2023
+1815,1900910400040,Aryan Gupta,ME,students_2023
+1816,1900910310145,Satyajeet Kumar Singh,ECE,students_2023
+1817,2000910109007,Mohd Adnan Saifi,CSE,students_2023
+1818,1900910310065,Devanshi Saxena,CSE,students_2023
+1820,1900910310193,Vrattica Yadav,ECE,students_2023
+1821,1900910400089,Pradhumn,ME,students_2023
+1822,1900910310150,Shipra Verma,ECE,students_2023
+1824,1900910000070,Mohd Kazim Raza,CE,students_2023
+1825,1900910130092,Prashant Kumar Handa,IT,students_2023
+1826,1900910130004,Abhishek Choudhary,IT,students_2023
+1827,2000910409004,Alim Raza,ME,students_2023
+1829,1900910130094,Pratigya Kumari,IT,students_2023
+1830,1900910000092,Sahil Tyagi,CE,students_2023
+1831,1900910130049,Harshit Aneja,IT,students_2023
+1832,2000910139007,Nitin Pratap Singh,IT,students_2023
+1833,1900910130030,Ashish Yadav,IT,students_2023
+1834,1900910000033,Ayush Yadav,CE,students_2023
+1836,1900910200063,Pratyush,EE,students_2023
+1837,1900910400090,Prajjwalit Singh,ME,students_2023
+1838,1900910400159,Yatharth Singh Chandrool,ME,students_2023
+1839,1900910310077,Hritik Gupta,ECE,students_2023
+1840,2000910109003,Ayush Gaur,CSE,students_2023
+1841,1900910130117,Tanya Joshi,IT,students_2023
+1842,1900910310108,Ojashwinee Mishra,ECE,students_2023
+1843,1900910310183,Uday Kumar Anand,ECE,students_2023
+1844,1900910100098,Nandini Roy,CSE,students_2023
+1845,1900910100020,Akshat Kaushik,CSE,students_2023
+1847,1900910100167,Siddharth Singh,CSE,students_2023
+1848,1900910100129,Raman Srivastava,CSE,students_2023
+1849,1900910100053,Ayush Paharia,CSE,students_2023
+1850,1900910400061,Himanshu Mishra,ME,students_2023
+1851,1900910130039,Devansh Tyagi,IT,students_2023
+1852,1900910100201,Yash Goel,CSE,students_2023
+1853,1900910400036,Arpit Saxena,ME,students_2023
+1854,1900910100123,Prince Singh,CSE,students_2023
+1855,1900910310105,Nishant Rai,ECE,students_2023
+1856,1900910200072,Sarthak,EE,students_2023
+1857,1900910130122,Utkarsh Dixit,IT,students_2023
+1858,1900910100042,Aquib Islam,CSE,students_2023
+1859,1900910100029,Ankit Kumar Verma,CSE,students_2023
+1860,1900910100189,Ujjwal Sharma,CSE,students_2023
+1861,1900910130001,Abhay Singh Rathaur,IT,students_2023
+1862,1900910200073,Satish Maurya,EE,students_2023
+1863,1900910210004,Aditi Kalkal,EEE,students_2023
+1864,1900910000078,Nitish Kumar Singh,CE,students_2023
+1865,2000910109012,Rajiv Kumar,CSE,students_2023
+1867,1900910310070,Divyanshu Pandey,ECE,students_2023
+1868,1900910000068,Malay Shyam Sharma,CE,students_2023
+1869,1900910200029,Chitrangee Chandra,EE,students_2023
+1870,1900910310082,Ketan Popli,ECE,students_2023
+1871,1900910100095,Mukul Chauhan,CSE,students_2023
+1872,1900910130102,Ravi Ratan,IT,students_2023
+1873,1900910310161,Shruti Verma,ECE,students_2023
+1874,1900910310009,Abhishek Purohit,ECE,students_2023
+1875,2000910409005,Amrita Kushwaha,ME,students_2023
+1876,1900910100024,Anant Kumar Gupta,CSE,students_2023
+1878,1900910130048,Harsh Vardhan,IT,students_2023
+1879,1900910310192,Virat Verma,ECE,students_2023
+1880,2000910109010,Priya,CSE,students_2023
+1881,1900910200089,Sumit Saxena,EE,students_2023
+1882,1900910130134,Yash Saxena,IT,students_2023
+1883,1900910100040,Apoorv Seth,CSE,students_2023
+1884,1900910130042,Divyam Kumar,IT,students_2023
+1885,1900910100136,Ritika Sahu,CSE,students_2023
+1886,1900910130018,Aman Tayal,IT,students_2023
+1887,1900910100015,Aishanya Sharma,CSE,students_2023
+1888,1900910100011,Aditee Singh,CSE,students_2023
+1889,1900910100190,Utkarsh Chaudhary,CSE,students_2023
+1890,1900910210053,Shreya Jaiswal,EEE,students_2023
+1891,1900910100097,Nakul Sharma,CSE,students_2023
+1892,1900910310092,Mansi Tiwari,ECE,students_2023
+1893,1900910400160,Yugant Asthana,ME,students_2023
+1894,1900910130112,Smriti Sharma,IT,students_2023
+1895,1900910100179,Surjeet Singh,CSE,students_2023
+1896,1900910310121,Pulkit Kumar Singh,ECE,students_2023
+1897,1900910310071,Faizan Ahmad,ECE,students_2023
+1898,1900910310037,Anukriti Attreya,ECE,students_2023
+1899,1900910100150,Sarthak Shukla,CSE,students_2023
+1900,1900910100124,Priyam Anand,CSE,students_2023
+1901,1900910310051,Ashutosh Singh,ECE,students_2023
+1902,1900910310167,Siddhant Pandey,ECE,students_2023
+1904,2000910319003,Ankleshwar Kumar,ECE,students_2023
+1905,1900910100153,Shashank Mishra,CSE,students_2023
+1907,1900910310072,Harsh Srivastava,ECE,students_2023
+1908,1900910100115,Piyush Gupta,CSE,students_2023
+1909,1900910130040,Dhruv Namdev,IT,students_2023
+1910,1900910130105,Sagar Singh,IT,students_2023
+1911,2000910209012,Yash Kumar,EE,students_2023
+1912,1900910130043,Divyansh Sharma,IT,students_2023
+1913,2000910409008,Jitendra Sharma,ME,students_2023
+1914,2000910209002,Abhishek,EE,students_2023
+1915,1900910130091,Pranav Arya,IT,students_2023
+1916,2000910009001,Abhishek Pathak,CE,students_2023
+1917,2000910219004,"Praveen Kumar 
+Chaurasia",EEE,students_2023
+1918,1900910310153,Shivani Gupta,ECE,students_2023
+1919,1900910130084,Nitish Mohan Batham,IT,students_2023
+1920,1900910130034,Ayush Srivastava,IT,students_2023
+1921,1900910200020,Anubhav Singh,EE,students_2023
+1922,1900910400137,Shubhranshu Mukherjee,ME,students_2023
+1923,1900910400120,Satyam Dubey,ME,students_2023
+1924,1900910400156,Vivek Anand,ME,students_2023
+1925,1900910200042,Lokesh,EE,students_2023
+1926,1900910400021,Amandeep Singh,ME,students_2023
+1927,1900910310010,Abhishek Raj Singh,ECE,students_2023
+1928,1900910100147,Samyak Singh,CSE,students_2023
+1929,1900910400155,Vinod Singh,ME,students_2023
+1930,1900910400060,Himanshu Payal,ME,students_2023
+1931,2000910109009,Prince Kshitij Dhangar,CSE,students_2023
+1932,1900910200075,Sharvi Pandey,EE,students_2023
+1933,1900910310025,Aman Rai,ECE,students_2023
+1934,1900910000009,Aditya Kumar Singh,CE,students_2023
+1935,1900910400126,Shiv Ratan Yadav,ME,students_2023
+1936,1900910130080,Navya Sharma,IT,students_2023
+1937,1900910100105,Nimish Agarwal,CSE,students_2023
+1938,1900910130023,Anmol Puri,IT,students_2023
+1939,1900910400150,Utkarsh Tyagi,ME,students_2023
+1940,1900910130114,Sumit Julka,IT,students_2023
+1941,1900910100102,Neetu Singh,CSE,students_2023
+1944,1900910310160,Shriyanshi Singh,ECE,students_2023
+1945,1900910000052,Hritik Singh,CE,students_2023
+1946,2000910139010,Tanya Maheshwari,IT,students_2023
+1947,1900910130056,Jalauk Singh Maurya,IT,students_2023
+1948,1900910100163,Shruti Varshney,CSE,students_2023
+1949,1900910130126,Vaibhav Trikha,IT,students_2023
+1950,1900910100056,Ayushman Mishra,CSE,students_2023
+1951,1900910100023,Aman Rawat,CSE,students_2023
+1952,1900910400148,Utkarsh Agrawal,ME,students_2023
+1953,1900910400053,Dhirendra Singh,ME,students_2023
+1954,1900910400034,Anurag Dubey,ME,students_2023
+1955,1900910130100,Rahul Kumar,IT,students_2023
+1956,1900910310191,Vinti Bhatia,ECE,students_2023
+1957,1900910210043,Praveen Singh,EEE,students_2023
+1958,1900910100195,Vedant Tiwari,CSE,students_2023
+1959,1900910100049,Ashish Kumar Gupta,CSE,students_2023
+1960,1900910130038,Deepanshi Gupta,IT,students_2023
+1961,1900910100155,Shivam Goel,CSE,students_2023
+1962,1900910100067,Gaurav Pandey,CSE,students_2023
+1963,1900910130008,Akanksha Singh,IT,students_2023
+1964,1900910100126,Raghav Singh,CSE,students_2023
+1965,1900910200067,Rakshita Pandey,EE,students_2023
+1966,1900910310133,Rohit Bansal,ECE,students_2023
+1967,1900910100104,Nilesh Mulchandani,CSE,students_2023
+1968,1900910000023,Apoorva Kumar Singh,CE,students_2023
+1969,1900910400128,Shivam Pratap Singh,ME,students_2023
+1970,1900910100077,Kartikeyea Singh,CSE,students_2023
+1971,1900910310126,Rajneel Anuraj,ECE,students_2023
+1972,1900910400027,Ankit Sharma,ME,students_2023
+1973,1900910000102,Shivani Pal,CE,students_2023
+1974,1900910100181,Swapnil,CSE,students_2023
+1975,2000910009006,Mukesh Kumar,CE,students_2023
+1976,1900910100175,Sujal Verma,CSE,students_2023
+1977,1900910310094,Mohit Srivastava,ECE,students_2023
+1978,1900910210042,Pranjal Shakya,EEE,students_2023
+1979,1900910100109,Nitya Tiwari,CSE,students_2023
+1980,1900910310024,Alisha Srivastava,ECE,students_2023
+1981,1900910310021,Akshat Chauhan,ECE,students_2023
+1982,1900910310125,Rahul Singh Khokhar,ECE,students_2023
+1984,1900910100009,Abhishek Sharma,CSE,students_2023
+1985,1900910400131,Shreshth Rajput,ME,students_2023
+1986,1900910200026,Ayush Kasaudhan,EE,students_2023
+1987,1900910100100,Naved Akhtar,CSE,students_2023
+1988,1900910310035,Anuj Nagar,ECE,students_2023
+1989,1900910100158,Shivanshu Saxena,CSE,students_2023
+1990,1900910100112,Pallavi Singh,CSE,students_2023
+1991,1900910100119,Prajwal Kanaujia,CSE,students_2023
+1992,1900910310061,Chaitanya Varshney,ECE,students_2023
+1993,1900910200078,Shashwat Pandey,EE,students_2023
+1994,1900910310015,Adhiraj Gangwar,ECE,students_2023
+1995,1900910310175,Surbhi Sharma,ECE,students_2023
+1996,1900910100118,Prajjwal Gautam,CSE,students_2023
+1997,1900910310043,Arshiya Rawat,ECE,students_2023
+1998,2000910409002,Adarsh Pandey,ME,students_2023
+1999,1900910200057,Niteesh Singh,EE,students_2023
+2000,2000910319003,Ankit R Verma,ECE,students_2023
+2001,1900910310159,Shristi Bharti,ECE,students_2023
+2002,1900910100032,Anshul Tyagi,CSE,students_2023
+2003,1900910100008,Abhishek Pratap Singh,CSE,students_2023
+2004,1900910200059,Prachi Singh,EE,students_2023
+2005,1900910000117,Vineet Chaudhary,CE,students_2023
+2007,1900910100161,Shrishti Malkani,CSE,students_2023
+2008,1900910130035,Ayush Verma,IT,students_2023
+2009,1900910100047,Asad Mahmood,CSE,students_2023
+2010,1900910200036,Harshit Kumar Jain,EE,students_2023
+2011,1900910100018,Akshansh Gupta,CSE,students_2023
+2013,1900910210050,Shivam Singh,EEE,students_2023
+2014,1900910000054,Isha Yadav,CE,students_2023
+2015,1900910130012,Akhil Negi,IT,students_2023
+2016,1900910310016,Aditi Gupta,ECE,students_2023
+2017,1900910210037,Nikhil Pratap Singh,EEE,students_2023
+2018,1900910100065,Gauransh Verma,CSE,students_2023
+2019,1900910310048,Ashish Srivastava,ECE,students_2023
+2020,1900910310143,Sanyam Jain,ECE,students_2023
+2021,1900910200040,Kirti Sahu,EE,students_2023
+2022,1900910310047,Aryan Pandey,ECE,students_2023
+2023,1900910100142,Sahil Sharma,CSE,students_2023
+2024,1900910310041,Arnav Mishra,ECE,students_2023
+2025,1900910310096,Nakul Yadav,ECE,students_2023
+2026,1900910400001,Abhay Yadav,EE,students_2023
+2027,1900910130099,Raghvendra Verma,IT,students_2023
+2028,1900910100006,Abhinav Singh,CSE,students_2023
+2029,1900910130006,Aishwary Bhadauriya,IT,students_2023
+2030,2000910409013,Mohd Hussain,ME,students_2023
+2031,1900910100111,Palak Goyal,CSE,students_2023
+2032,1900910400080,Monu Kumar Singh,ME,students_2023
+2033,1900910400088,Paryant Rastogi,ME,students_2023
+2034,1900910310179,Tarush Raj Srivastava,ECE,students_2023
+2035,1900910200093,Swarnima Singh,EE,students_2023
+2036,1900910200032,Garima Pandey,EE,students_2023
+2037,1809140029,Aryaman Chauhan,ME,students_2023
+2038,1900910130060,Kasak Gupta,IT,students_2023
+2039,1900910130077,Naman Shankhydhar,IT,students_2023
+2040,1900910100039,Anushka Verma,CSE,students_2023
+2041,1900910130017,Aman Dixit,IT,students_2023
+2042,1900910100079,Kavya Agrawal,CSE,students_2023
+2043,1900910310046,Aryan Bisht,ECE,students_2023
+2045,1900910130098,Raghavendra Khare,IT,students_2023
+2046,1900910100170,Som Ahirwar,CSE,students_2023
+2048,2000910219005,Suhani Mittal,EEE,students_2023
+2049,1900910310039,Aprajita Chaudhary,ECE,students_2023
+2050,1900910210011,Aman Singh Negi,EEE,students_2023
+2051,1900910400032,Anuj Pratap Singh,ME,students_2023
+2052,1900910310095,Muskan Arora,ECE,students_2023
+2053,1900910100064,Diksha Shukla,CSE,students_2023
+2054,1900910100160,Shreya Gupta,CSE,students_2023
+2055,1900910200080,Shiva Jee Gupta,EE,students_2023
+2056,1900910100069,Harsh Singh,CSE,students_2023
+2057,1900910310134,Ruchi,ECE,students_2023
+2058,1900910130128,Vibhor Grover,IT,students_2023
+2059,1900910100182,Swarina Jaiswal,CSE,students_2023
+2060,1900910130058,Kalpit Arya,IT,students_2023
+2061,1900910210007,Aditya Ranjan,EEE,students_2023
+2062,1900910400103,Rishabh Pratap Singh,ME,students_2023
+2063,1900910200083,Shruti Singh,EE,students_2023
+2064,1900910310131,Riyan Ahmad,ECE,students_2023
+2065,1900910400097,Priyanjali Singh,ECE,students_2023
+2066,1900910310050,Ashutosh Singh,ECE,students_2023
+2067,2000910409001,Abhay Shankar Shukla,ME,students_2023
+2068,1900910100114,Piyush Dasila,CSE,students_2023
+2069,1900910200038,Kartikey Sengar,EE,students_2023
+2070,1900910200001,Aayush Rao,EE,students_2023
+2071,1900910310053,Avni Rajpoot,ECE,students_2023
+2072,1900910100113,Parth Sharma,CSE,students_2023
+2073,2000910139003,Dev Chaudhary,IT,students_2023
+2074,1900910200018,Ankit Pratap Singh,EE,students_2023
+2076,1900910130120,Tushar Chauhan,IT,students_2023
+2077,1900910310022,Akshita Verma,ECE,students_2023
+2078,1900910130079,Nandini Agarwal,IT,students_2023
+2079,1900910130069,Manthan Gupta,IT,students_2023
+2080,1900910130054,Himani Chauhan,IT,students_2023
+2081,1900910100036,Anuraj Jain,CSE,students_2023
+2083,1900910400008,Adarsh Madan,ME,students_2023
+2084,1900910130045,Govind,IT,students_2023
+2085,1900910100031,Anmol Srivastava,CSE,students_2023
+2087,1900910130130,Vinayak Srivastava,IT,students_2023
+2088,1900910400114,Saif Ali,ME,students_2023
+2089,1900910100132,Ridhi Fulara,CSE,students_2023
+2090,1900910310038,Apar Agarwal,ECE,students_2023
+2091,2000910319015,Tanu Tripathi,ECE,students_2023
+2092,1900910310003,Aayushi Vishnoi,ECE,students_2023
+2093,1900910130014,Akshay Gour,IT,students_2023
+2094,2000910139008,Omveer Yadav,IT,students_2023
+2095,1900910130064,Kuldeep Maurya,IT,students_2023
+2096,1900910310030,Anchal Verma,ECE,students_2023
+2097,1900910100038,Anushka Chaudhary,CSE,students_2023
+2099,1900910100043,Arjit Kumar,CSE,students_2023
+2100,1900910130103,Rishabh Sharma,IT,students_2023
+2102,1900910130044,Divyanshu Pratap Singh,IT,students_2023
+2103,1900910100148,Sankalp Srivastava,CSE,students_2023
+2104,1900910100017,Akash Srivastava,CSE,students_2023
+2105,2000910109014,Shivam Dubey,CSE,students_2023
+2106,1900910100149,Sanyuktaa Bajoria,CSE,students_2023
+2108,1900910400153,Vashishth Gupta,ME,students_2023
+2109,1900910100152,Sayinah Ali,CSE,students_2023
+2110,1900910000041,Ekta Jha,CE,students_2023
+2111,1900910100141,Sahil Saxena,CSE,students_2023
+2112,1900910100046,Aryan Srivastava,CSE,students_2023
+2113,1900910210013,Amardeep Jaiswal,EEE,students_2023
+2114,1900910310088,Lochan Chaudhary,ECE,students_2023
+2115,1900910000112,Vaishnavi Yadav,CE,students_2023
+2116,1900910130033,Ayush Singhal,IT,students_2023
+2117,1900910130028,Aryan Singh,IT,students_2023
+2118,1900910100133,Rishabh Singh,CSE,students_2023
+2119,1900910200100,Yashasvi Saxena,EE,students_2023
+2120,2000910318001,Shani Patel,ECE,students_2023
+2121,1900910130037,Chirag Gupta,IT,students_2023
+2122,1900910310197,Yashika Tyagi,ECE,students_2023
+2123,1900910310129,Rishabh Kumar Yadav,ECE,students_2023
+2124,1900910100058,Daarshik Dwivedi,CSE,students_2023
+2125,1900910310086,Kriti Sharma,ECE,students_2023
+2126,1900910310098,Navaid Safder,ECE,students_2023
+2127,1900910210031,Lakshya Patel,EEE,students_2023
+2128,1900910200016,Anikesh Singh,EE,students_2023
+2129,1900910310056,Ayush Kushwaha,ECE,students_2023
+2130,1900910100041,Apoorv Chaudhary,CSE,students_2023
+2131,1900910100183,Tarun Kumar,CSE,students_2023
+2132,1900910100116,Piyush Mishra,CSE,students_2023
+2133,2000910139006,Nitika Singh,IT,students_2023
+2134,1900910310186,Utkarsh Kumar Mishra,ECE,students_2023
+2135,1900910310172,Stuti Singh,ECE,students_2023
+2137,1900910100021,Akshit Awasthi,CSE,students_2023
+2138,1900910400112,Sagar Aggarwal,ME,students_2023
+2139,1900910310044,Arun Saxena,ECE,students_2023
+2140,1900910100103,Nikunj Garg,CSE,students_2023
+2141,1900910310067,Divya Singh,ECE,students_2023
+2144,1900910310104,Nisha Raitani,ECE,students_2023
+2145,1900910100168,Siddhartha,CSE,students_2023
+2146,1900910100128,Rajat Panwar,CSE,students_2023
+2147,1900910100143,Sakshi Singh,CSE,students_2023
+2148,1900910310151,Shiva Kushwaha,ECE,students_2023
+2149,1900910130065,Kushagra Arora,IT,students_2023
+2150,1900910310132,Rohit Shambharkar,ECE,students_2023
+2151,1900910100003,Abhay Kumar Singh,CSE,students_2023
+2152,1900910130007,Akanksha Jaiswal,IT,students_2023
+2153,1900910130066,Mahesh Keswani,IT,students_2023
+2154,1900910100088,Mayank Rajput,CSE,students_2023
+2155,2000910319002,Animesh Gupta,ECE,students_2023
+2156,1900910310103,Nipun Dahiya,ECE,students_2023
+2157,1900910100005,Abhinav Juyal,CSE,students_2023
+2158,1900910100134,Rishav Uppal,CSE,students_2023
+2159,1900910100025,Anikesh Sahai,CSE,students_2023
+2160,1900910400099,Pushkar Pratap Singh,ME,students_2023
+2161,1900910400076,Manav Bhatia,ME,students_2023
+2162,1900910400075,Maitrei Tiwari,ME,students_2023
+2163,1900910000008,Aditya Kumar,CE,students_2023
+2165,1900910100045,Aryan Rastogi,CSE,students_2023
+2167,1900910200009,Aditi Bhadauria,EE,students_2023
+2169,1900910130081,Nikita,IT,students_2023
+2171,1900910100092,Mohd Shadmaan,CSE,students_2023
+2172,1900910000006,Adarsh Maurya,CE,students_2023
+2173,1900910100187,Ujjwal Tyagi,CSE,students_2023
+2174,1900910400101,Rangma Tiwari,EE,students_2023
+2175,2000910139005,Mohd Fayaz,IT,students_2023
+2176,1900910100188,Ujjwal Badhautiya,CSE,students_2023
+2177,1900910100027,Anil Kumar,CSE,students_2023
+2178,1900910100173,Soumya Sharma,CSE,students_2023
+2179,1900910100093,Muhammad Rizwan Asif,CSE,students_2023
+2180,1900910200017,Ankit Kumar Gupta,EE,students_2023
+2181,2000910109015,Siddharth Seth,CSE,students_2023
+2182,1900910400158,Yash Pratap Singh,ME,students_2023
+2183,1900910200034,Harsh Dubey,EE,students_2023
+2184,1900910100059,Dev Gaur,CSE,students_2023
+2185,1900910100044,Arushi Singh,CSE,students_2023
+2186,1900910100174,Srashti Mittal,CSE,students_2023
+2187,1900910000034,Ayushi Shukla,CE,students_2023
+2188,1900910310036,Anuj Prakash Gupta,ECE,students_2023
+2190,2000910109001,Akanksha Vishvakarma,CSE,students_2023
+2191,1900910310137,Sadaf Parveen,ECE,students_2023
+2192,1900910130010,Akash Gupta,IT,students_2023
+2193,1900910130009,Akash Gupta,IT,students_2023
+2194,1900910310142,Sanyam Bansal,ECE,students_2023
+2195,1900910100177,Suraj Chaudhary,CSE,students_2023
+2196,2000910319006,Megha Kaushik,ECE,students_2023
+2197,1900910400066,Ishita Chandra,ME,students_2023
+2198,1900910130052,Harshit Sharma,IT,students_2023
+2199,1900910100171,Sonal,CSE,students_2023
+2200,2000910109018,Yashwant Singh,CSE,students_2023
+2201,1900910310138,Sakshi Sachan,ECE,students_2023
+2202,1900910100083,Kunwar Randhir Singh,CSE,students_2023
+2203,1900910100090,Mitul Garg,CSE,students_2023
+2204,1900910310102,Nikita Gupta,ECE,students_2023
+2205,1900910400018,Aman Sharma,ME,students_2023
+2206,1900910100156,Shivam Singh,CSE,students_2023
+2207,1900910100199,Vishal Kumar,CSE,students_2023
+2208,1900910100028,Anjana Bajaj,CSE,students_2023
+2209,1900910100007,Abhinay Agarwal,CSE,students_2023
+2210,1900910210033,Madhumay Tripathi,EEE,students_2023
+2211,1900910130036,Bhagyashree Rajdor,IT,students_2023
+2212,1900910210062,Vivek Jaiswal,CSE,students_2023
+2213,1900910200049,Medha Singh,EE,students_2023
+2214,1900910310074,Harshit Raj,ECE,students_2023
+2215,1900910100001,Aarav Pant,CSE,students_2023
+2217,1900910310023,Akshita Srivastava,ECE,students_2023
+2218,1900910100016,Ajeet Gupta,CSE,students_2023
+2219,1900910100200,Yash Garg,CSE,students_2023
+2220,1900910310087,Kumar Shwetank,ECE,students_2023
+2221,2000910109004,Dharm Singh,CSE,students_2023
+2222,1900910310090,Manav Rishi Yadav,ECE,students_2023
+2223,1900910100087,Manvi Singhal,CSE,students_2023
+2224,1900910310081,Kavya Shukla,ECE,students_2023
+2225,1900910310181,Tushar Gupta,ECE,students_2023
+2226,1900910210046,Sakshi Mishra,EEE,students_2023
+2227,1900910130119,Tushar Agrawal,IT,students_2023
+2229,1900910310155,Shreshth Sharma,ECE,students_2023
+2230,1900910210005,Aditi Kumari,EEE,students_2023
+2231,1900910200045,Manvinder Singh,EE,students_2023
+2232,1900910130050,Harshit Garg,IT,students_2023
+2233,1900910100108,Nitin Saxena,CSE,students_2023
+2234,1900910130013,Akshat Nigam,IT,students_2023
+2235,2000910109016,Varsha Singh,CSE,students_2023
+2236,1900910100066,Gaurav Kumar,CSE,students_2023
+2237,1900910000046,Gaurav Verma,CE,students_2023
+2238,1900910200051,Mohd Ajmal,EE,students_2023
+2239,1900910100074,Jagdish Saini,CSE,students_2023
+2240,1900910100026,Aniket Jayant,CSE,students_2023
+2241,1900910310005,Abhinav Pandey,ECE,students_2023
+2242,1900910130121,Utkarsh Agrawal,IT,students_2023
+2243,1900910310034,Anshuman Srivastava,ECE,students_2023
+2244,1900910130133,Yash Nigam,IT,students_2023
+2245,1900910130057,Kajal Gangwar,IT,students_2023
+2247,1900910130096,Raghav Taneja,IT,students_2023
+2248,1900910130073,Mohit Singh Rathore,IT,students_2023
+2249,1900910210056,Shubham Mishra,EEE,students_2023
+2251,1900910100096,Naincy Rastogi,CSE,students_2023
+2252,1900910310157,Shreyansh Singh,ECE,students_2023
+2253,1900910130070,Manya Verma,IT,students_2023
+2254,1900910400093,Prateek Kumar,ME,students_2023
+2255,1900910400059,Herain Pratap Singh,ME,students_2023
+2256,1900910210054,Shreyash Shukla,EEE,students_2023
+2257,1900910100135,Ritik Gupta,CSE,students_2023
+2258,1900910130101,Rahul Pandey,IT,students_2023
+2259,1900910210023,Ashutosh Kumar,EEE,students_2023
+2260,1900910100107,Nishant Malik,CSE,students_2023
+2261,1900910130123,Utkarsh Kataria,IT,students_2023
+2262,1900910000032,Ayush Kushwaha,CE,students_2023
+2263,1900910100139,Rudrakshi,CSE,students_2023
+2265,1900910400039,Aryan Amitabh,ME,students_2023
+2266,1900910130032,Astha Pandey,IT,students_2023
+2267,1900910100101,Neeraj Maurya,CSE,students_2023
+2268,1900910400083,Naveen Singh,ME,students_2023
+2269,1900910100076,Karan Verma,CSE,students_2023
+2270,1900910200081,Shivesh Kumar Mishra,EE,students_2023
+2272,1900910400138,Siddhant,ME,students_2023
+2273,1900910310084,Khushi Sangal,ECE,students_2023
+2274,1900910400111,Sachin Yadav,ME,students_2023
+2275,2000910109005,Kasaf Aiman,CSE,students_2023
+2276,1900910400023,Amit Kumar Yadav,ME,students_2023
+2277,1900910310060,Ayush Singh,ECE,students_2023
+2278,1900910130061,Kavya Daga,IT,students_2023
+2279,1900910100159,Shreedhar Sharma,CSE,students_2023
+2281,1900910400141,Suraj Gupat,ME,students_2023
+2282,1900910130063,Kritika,IT,students_2023
+2283,2000910319009,Nidhi Chaurasia,ECE,students_2023
+2284,1900910100176,Sumeet Singh,CSE,students_2023
+2285,1900910210021,Arpit Jha,EEE,students_2023
+2286,1900910200090,"Sushant Prakash 
+Srivastava",EE,students_2023
+2287,1900910100035,Anurag Jain,CSE,students_2023
+2288,1900910130047,Harsh Rustagi,IT,students_2023
+2289,1900910310107,Ojas Chaurasia,ECE,students_2023
+2290,1900910310073,Harshit Agarwal,ECE,students_2023
+2291,1900910100178,Suraj Garg,CSE,students_2023

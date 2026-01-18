@@ -1,0 +1,603 @@
+summary_id,year,company_name,total_offers,ctc_lpa,raw_source_table
+1,2019,10 Times,3,2.94,company_2019
+2,2019,Amazon,5,5.5,company_2019
+3,2019,Aradhana Engg Works,1,3.12,company_2019
+4,2019,Ashok Leyland,2,5,company_2019
+5,2019,Avartan Technologies Pvt. Ltd.,1,3,company_2019
+6,2019,Bosch,23,5,company_2019
+7,2019,Byju'S,11,7,company_2019
+8,2019,Caddesk India,4,3,company_2019
+9,2019,Cadence,1,3.5,company_2019
+10,2019,Capegemini,1,3.8,company_2019
+11,2019,Capgemini,15,3.8,company_2019
+12,2019,Certybox,4,3.6,company_2019
+13,2019,Chegg India Pvt. Ltd,36,3.5,company_2019
+14,2019,Cloudwala,1,3.12,company_2019
+15,2019,Codchef,1,4.2,company_2019
+16,2019,Cognizance,6,3.83,company_2019
+17,2019,Cognizant,18,3.38,company_2019
+18,2019,Conqsys,2,3,company_2019
+19,2019,Contata,2,4,company_2019
+20,2019,"Content Writing Black Board Radio, Jhs",1,3.25,company_2019
+21,2019,Cusmat,1,6.13,company_2019
+22,2019,Cvent (Pool At Galgotia),1,6.78,company_2019
+23,2019,Eckovation,6,6,company_2019
+24,2019,Emerson,2,3.6,company_2019
+25,2019,Eta Engineering Pvt. Ltd.,5,3.5,company_2019
+26,2019,Extramarks,6,4.2,company_2019
+27,2019,Fiserv,6,4,company_2019
+28,2019,Gary Global Solutions,2,3.15,company_2019
+29,2019,Ginger Webs,1,3.4,company_2019
+30,2019,Gis Software,1,3,company_2019
+31,2019,"Global Clutch Industries, Ahmedabad",1,4,company_2019
+32,2019,Global Logic,6,4.81,company_2019
+33,2019,Gradeup,4,5.1,company_2019
+34,2019,Greater Noida - Solar,1,3.25,company_2019
+35,2019,Hcl,4,3.5,company_2019
+36,2019,Huddle Solutions,4,3.6,company_2019
+37,2019,Igniter'S Hub,4,3.5,company_2019
+38,2019,Impetus,1,3.6,company_2019
+39,2019,Impitus Infotech,2,5,company_2019
+40,2019,India Mart,3,3.2,company_2019
+548,2023,Nm Tronics,2,6.5,company_2023
+41,2019,India Mart (Pool In Jssate),5,5,company_2019
+42,2019,Indiamart.,1,3.5,company_2019
+43,2019,Indian Air Force,1,8,company_2019
+44,2019,Indian Post Office,1,4.25,company_2019
+45,2019,Indusland Bank (Pool In Jss),2,4,company_2019
+46,2019,Infoedge,1,6.5,company_2019
+47,2019,Infogain,3,3.5,company_2019
+48,2019,Inn Think Technologies,1,3.5,company_2019
+49,2019,Isterling And Wilson,1,2.95,company_2019
+50,2019,Itbd,1,3,company_2019
+51,2019,Jaro Education (Pool Campus),3,12,company_2019
+52,2019,Jaro Topscholars,1,4.5,company_2019
+53,2019,Je Indian Railway(Govt.),1,4.5,company_2019
+54,2019,Jellyfish Technologies Pvt. Ltd,2,3,company_2019
+55,2019,Libsys,2,4.5,company_2019
+56,2019,Lutron,1,4.5,company_2019
+57,2019,Lyberate India Pvt Ltd,1,3.5,company_2019
+58,2019,Makino Auto Pvt,3,3,company_2019
+59,2019,Mavenir Systems,1,6.37,company_2019
+60,2019,Mckinsol,4,3,company_2019
+61,2019,Mcm Encore,1,3.6,company_2019
+62,2019,Metal Craft Construction Pvt Ltd,1,4,company_2019
+63,2019,Mitutoyo,1,3,company_2019
+64,2019,Motherson,1,3.8,company_2019
+65,2019,Mtree Software Pvt. Ltd,1,5.5,company_2019
+66,2019,Multitex,3,3.5,company_2019
+67,2019,Nagarro,1,3.1,company_2019
+68,2019,Newgen Software Technologies Ltd.,12,4.5,company_2019
+69,2019,Nic Project,1,3.5,company_2019
+70,2019,Ntt Data,3,3.2,company_2019
+71,2019,Parallel Dots,1,5,company_2019
+72,2019,Paytm Payment Bank,1,3.3,company_2019
+73,2019,Pitney Bowes,1,8.12,company_2019
+74,2019,Rate Gain,4,4,company_2019
+75,2019,Razorpay,1,12,company_2019
+76,2019,Roulunds Braking (India)Pvt. Ltd.,1,3,company_2019
+77,2019,Samishti Infotech,3,4.06,company_2019
+78,2019,Shiprocket,1,5,company_2019
+79,2019,Simon,2,4,company_2019
+80,2019,Skyhawk Aviation,1,4,company_2019
+81,2019,Spectrum Talent Management,2,3,company_2019
+82,2019,Squadrun Solutions Private Limited,3,3.4,company_2019
+83,2019,State Street Corporate Service Pvt,1,3.5,company_2019
+84,2019,Tak Technologies,7,3.5,company_2019
+85,2019,Talent Cabin Pvt Ltd,2,3.5,company_2019
+86,2019,TCS,92,3.36,company_2019
+87,2019,Technoviz Autoamtion,1,3.16,company_2019
+88,2019,Teleperformace,1,3.5,company_2019
+89,2019,Times Internet Ltd.,2,3.5,company_2019
+90,2019,Timex,2,3,company_2019
+91,2019,Torrent Gas,1,3.25,company_2019
+92,2019,Torrent Power,10,3.27,company_2019
+93,2019,"Tricolite, Gurugram",1,3.25,company_2019
+94,2019,Tricon,2,5,company_2019
+95,2019,Trion Solutions,1,4.25,company_2019
+96,2019,Tsys,1,4.33,company_2019
+97,2019,Unified Cloud,13,3,company_2019
+98,2019,Vaidik Eduservices Pvt Ltd,2,3.16,company_2019
+99,2019,Veda Iit,1,3.6,company_2019
+100,2019,Vedanta,2,4,company_2019
+101,2019,Vedantu (Pool At Niet),6,7,company_2019
+102,2019,Virtusa,1,3.3,company_2019
+103,2019,Visit,1,7.2,company_2019
+104,2019,Webkul,9,3.2,company_2019
+105,2019,Wiitybrain,1,3,company_2019
+106,2019,Wipro (Pool Campus In Jss),48,3.5,company_2019
+107,2019,Zia Semiconductor,2,4.5,company_2019
+108,2019,Zycus (Pool Campus In Jss),1,7,company_2019
+115,2020,Adinio Services Pvt Ltd,1,2.5,company_2020
+116,2020,Aditya Farrad Production,1,4.5,company_2020
+109,2020,Adobe,1,40,company_2020
+114,2020,Algoworks,1,3,company_2020
+117,2020,Amazon,2,30,company_2020
+119,2020,Appcpl,1,2.6,company_2020
+120,2020,"Arunachal Pradesh Power Corporation 
+Pvt. Ltd",1,2.8,company_2020
+121,2020,Atkins,1,5.2,company_2020
+122,2020,Birlasoft,30,3.25,company_2020
+123,2020,Byjus,13,8,company_2020
+124,2020,Capgemini,5,3.8,company_2020
+125,2020,Certybox,6,5,company_2020
+126,2020,Cheeg India,13,3.5,company_2020
+127,2020,Cloud Analogy,1,3.5,company_2020
+128,2020,Cognizant,44,4,company_2020
+129,2020,Contata,3,6,company_2020
+131,2020,Craterzone Pvt Ltd,2,4,company_2020
+132,2020,Daffodil,1,3.5,company_2020
+133,2020,Deep Logic Tech India Pvt Ltd,7,3.5,company_2020
+134,2020,Delton Cables,2,2.5,company_2020
+110,2020,Dxc,2,4,company_2020
+135,2020,Eina Engineering Company,1,8.2,company_2020
+136,2020,Extra Marks,9,12.4,company_2020
+137,2020,Extramark,7,8,company_2020
+138,2020,Geek For Geeks,6,5.5,company_2020
+139,2020,Gemini Solutions,5,4,company_2020
+140,2020,Globallogic,9,4.8,company_2020
+141,2020,Gradeup,5,6.5,company_2020
+142,2020,Hashedin,2,4,company_2020
+111,2020,Hcl,1,3.5,company_2020
+143,2020,Ibm,3,3.5,company_2020
+144,2020,Ignitors Hub,2,2.5,company_2020
+145,2020,Infoedge,2,4.5,company_2020
+146,2020,Infogain,13,4.2,company_2020
+112,2020,Infosys,5,3.6,company_2020
+148,2020,Innobit Technologies,1,4.5,company_2020
+149,2020,Isgec,9,5.5,company_2020
+150,2020,Jaro Education,2,8,company_2020
+152,2020,Jk Technosoft,1,3.56,company_2020
+153,2020,Kronos,4,15.35,company_2020
+154,2020,Libsys,2,5,company_2020
+155,2020,Mann India Technologies Pvt. Ltd.,5,3.5,company_2020
+156,2020,Mayur Technosoft Pvt Ltd,2,2.5,company_2020
+157,2020,Motherson Sumi,2,3.8,company_2020
+158,2020,"Mothersonsumi Infotech & Designs 
+Limited",6,3.5,company_2020
+159,2020,Mtree Software,4,6,company_2020
+160,2020,Nagarro,1,3.6,company_2020
+113,2020,Newgen,2,4.25,company_2020
+162,2020,Niit Technologies Greater Noida,24,3.5,company_2020
+163,2020,Nsmatrix,1,2.5,company_2020
+164,2020,Ntt Data,3,3.2,company_2020
+165,2020,One Bcg,2,5,company_2020
+166,2020,Paytm Bank,1,5,company_2020
+167,2020,Planetcast Media Services Limited,1,3.5,company_2020
+168,2020,Planetspark,3,5,company_2020
+169,2020,Pnut Fit Pvt Ltd,1,4,company_2020
+170,2020,Publicis Sapient,1,5,company_2020
+171,2020,Qa Infotech,5,3.5,company_2020
+172,2020,Rmgx Technologies Llp,1,3.6,company_2020
+173,2020,Rtds,2,6,company_2020
+174,2020,Samsung,5,5,company_2020
+175,2020,Samsung Heavy Industries India Pvt. Ltd.,4,6,company_2020
+176,2020,Snapdeal,3,4,company_2020
+177,2020,Squareyards,5,3.5,company_2020
+178,2020,Svam,5,3.5,company_2020
+179,2020,Ta Digital,2,4,company_2020
+180,2020,TCS,127,3.5,company_2020
+181,2020,Tech Mahindra,2,3.5,company_2020
+182,2020,Technip- Fmc,5,6,company_2020
+183,2020,Thanksfor The Help,1,2.5,company_2020
+184,2020,Timex,4,2.5,company_2020
+185,2020,To The New,3,4.5,company_2020
+186,2020,Torrent Power,1,4,company_2020
+187,2020,Webkul,1,4,company_2020
+188,2020,Wipro,35,3,company_2020
+189,2020,Wisteli Informatics,2,4,company_2020
+190,2020,Zia Semiconductors,8,7,company_2020
+191,2021,Aamor Inox,1,3,company_2021
+192,2021,Act 21,2,4,company_2021
+193,2021,Aditya Birla Health,2,3.6,company_2021
+194,2021,Amazon,3,27.83,company_2021
+195,2021,Apisero,4,5.1,company_2021
+196,2021,Appinventiv,3,4.2,company_2021
+197,2021,Appsierra,1,5.1,company_2021
+198,2021,Appventurez Mobitech,1,3,company_2021
+199,2021,Ats Infrastructure,2,4,company_2021
+200,2021,Avissol Contaque,4,5.5,company_2021
+201,2021,Byju'S,1,10,company_2021
+202,2021,Cavission,5,4.5,company_2021
+203,2021,Cedcoss,4,3,company_2021
+204,2021,Certybox,7,7,company_2021
+205,2021,Chegg,11,9.6,company_2021
+206,2021,Cinifglobal,31,3.6,company_2021
+207,2021,Coforge Limited,1,3.65,company_2021
+208,2021,Coforge(Fn),3,3.65,company_2021
+209,2021,Conduent,5,3.75,company_2021
+210,2021,Contaque**,1,4,company_2021
+211,2021,Contaque/Avissol,4,5.5,company_2021
+212,2021,Corpseed,4,3,company_2021
+213,2021,Craterzone,1,3.6,company_2021
+214,2021,Cybrotech Digiventure,1,3,company_2021
+215,2021,Daffodil,13,5,company_2021
+216,2021,Dell,1,7,company_2021
+217,2021,Ebizon Digital Pvt Ltd,1,2.5,company_2021
+218,2021,Edugrad,2,6,company_2021
+219,2021,Edukyu,1,4.9,company_2021
+220,2021,Energizer,1,3.3,company_2021
+221,2021,Eta-Engg,14,3.23,company_2021
+222,2021,Extentia,1,2.5,company_2021
+223,2021,Fusionstak,3,4,company_2021
+224,2021,Gainsight Software,1,13,company_2021
+225,2021,Gebr. Pfeiffer (India) Pvt. Ltd.,1,5,company_2021
+226,2021,Geminisolution,1,6,company_2021
+227,2021,Getfareye,1,4,company_2021
+228,2021,Gradeup,5,7,company_2021
+229,2021,Grifeo,27,4.8,company_2021
+230,2021,Hanu,9,4.2,company_2021
+231,2021,Hcl,33,3.5,company_2021
+233,2021,Hexaware,8,3.5,company_2021
+234,2021,Hitachi,1,4.5,company_2021
+235,2021,Hiveminds,1,10,company_2021
+236,2021,Impetus,7,4,company_2021
+237,2021,Indiamart,17,5.5,company_2021
+239,2021,Industrybuying,3,4,company_2021
+240,2021,Info Edge,1,7.25,company_2021
+241,2021,Infogain,6,3.75,company_2021
+242,2021,Ion Group,8,12,company_2021
+243,2021,Isgec,3,5.5,company_2021
+244,2021,Itconvergence,1,3.5,company_2021
+245,2021,Jaro,5,6.6,company_2021
+246,2021,Jk Technosoft,4,3.5,company_2021
+247,2021,Knocial India,65,4,company_2021
+248,2021,Knoldus,1,6,company_2021
+249,2021,Libsys,4,5,company_2021
+250,2021,Lido,1,3.6,company_2021
+251,2021,Mediology Software,1,4,company_2021
+252,2021,Mindtree,2,6,company_2021
+253,2021,Mobiloitte,1,2.5,company_2021
+254,2021,Monster,12,6,company_2021
+255,2021,Muvro Technologies,1,2.8,company_2021
+256,2021,Nagarro,21,3.5,company_2021
+257,2021,Neosoft,2,3.6,company_2021
+258,2021,Neudesic,5,3.6,company_2021
+259,2021,Newgen,11,4.25,company_2021
+260,2021,Ns Matrix Services,1,2.5,company_2021
+261,2021,Omnie Solutions,1,3.6,company_2021
+262,2021,Paypal & Hp,2,5.5,company_2021
+263,2021,Paytm,11,9,company_2021
+265,2021,People Strong,7,3.5,company_2021
+266,2021,Pheuture,1,3,company_2021
+267,2021,Planetspark,1,7.6,company_2021
+268,2021,Qtechglobal,2,2.5,company_2021
+269,2021,Rapipay,5,6,company_2021
+270,2021,Regalo Kitchen,1,2.5,company_2021
+271,2021,Remotestate,1,5,company_2021
+272,2021,Scaleup Alley Pvt Ltd,1,3,company_2021
+273,2021,Shl,5,6.7,company_2021
+275,2021,Sol,12,3.12,company_2021
+276,2021,Sopra Steria,1,6,company_2021
+277,2021,Soti India,1,6.5,company_2021
+278,2021,Squareyards,1,2.5,company_2021
+279,2021,Talentserve,18,12,company_2021
+280,2021,TCS,75,3.5,company_2021
+281,2021,Technologics,3,3.34,company_2021
+282,2021,Tgpel,1,3,company_2021
+283,2021,Torrent,2,3.75,company_2021
+284,2021,Tothenew,1,4.5,company_2021
+285,2021,Triconinfotech,1,5,company_2021
+286,2021,Tsys,2,7.5,company_2021
+287,2021,Ugam,1,3,company_2021
+288,2021,Verzeo,1,3,company_2021
+289,2021,Visudhaajivam,2,8,company_2021
+290,2021,Wealthclinic,3,3,company_2021
+291,2021,Wiley,6,11,company_2021
+292,2021,Wipro,36,3.5,company_2021
+293,2021,Wisteli,5,2.5,company_2021
+294,2021,World Fashion,3,3.6,company_2021
+295,2021,Zia Semiconductors,2,8,company_2021
+296,2022,4pointer,1,2.5,company_2022
+297,2022,Abhi Allied Services,1,5.3,company_2022
+298,2022,Accenture,77,4.5,company_2022
+299,2022,Acura,1,2.5,company_2022
+300,2022,Acurasolution,1,3.2,company_2022
+301,2022,Addverb,12,3,company_2022
+302,2022,Adobe,1,10,company_2022
+303,2022,Adsever,3,6,company_2022
+304,2022,Airtel,1,15,company_2022
+305,2022,Algodom Media,1,4.5,company_2022
+306,2022,Aloha Tech,4,3,company_2022
+307,2022,Amazon,1,45.25,company_2022
+308,2022,Apponward,1,3,company_2022
+309,2022,Aptara,2,3.6,company_2022
+310,2022,Avissol,1,5.5,company_2022
+311,2022,Axtria Analyst,9,24,company_2022
+312,2022,Big Brick India,1,2.5,company_2022
+313,2022,Bigoh,4,5,company_2022
+314,2022,Biztecno,2,4.5,company_2022
+315,2022,Bonami,2,4.5,company_2022
+316,2022,Brand.Org,3,3.6,company_2022
+317,2022,Bright Money,1,20,company_2022
+318,2022,Brightly,1,6,company_2022
+319,2022,Buddy 4 Study,2,3.6,company_2022
+320,2022,Byjus,3,6,company_2022
+321,2022,Byjus Gradeup,2,7,company_2022
+322,2022,Careernet Hirepro,1,3,company_2022
+323,2022,Cavission,7,4.5,company_2022
+324,2022,Certy Box,6,3.6,company_2022
+325,2022,Class Plus,1,8.5,company_2022
+326,2022,Clear Water,2,4,company_2022
+327,2022,Colt,1,3.6,company_2022
+328,2022,Conduent,4,4.8,company_2022
+329,2022,Continum Global,1,4,company_2022
+330,2022,Cosmo,1,3.5,company_2022
+331,2022,Csb Bank,1,3,company_2022
+332,2022,Csg,3,4,company_2022
+333,2022,Design O Web,1,4,company_2022
+334,2022,Dmi Finance,2,6,company_2022
+335,2022,Dollpa Pee,1,13,company_2022
+336,2022,E2logy Software,1,2.5,company_2022
+337,2022,Emerson,4,4.4,company_2022
+338,2022,Epam,3,6,company_2022
+339,2022,Espoir,13,4.08,company_2022
+340,2022,Eta Engineering,8,3.23,company_2022
+341,2022,Exiger,1,4.25,company_2022
+342,2022,Ga Morgan,2,5,company_2022
+343,2022,Gebr.Pfeiffer,1,5,company_2022
+344,2022,Gkp,1,2.5,company_2022
+345,2022,Global Logic,17,5.5,company_2022
+346,2022,Go Digit,1,7,company_2022
+347,2022,Gradeup,4,8,company_2022
+348,2022,Gradeup Byjus,1,7,company_2022
+349,2022,Grapecity,1,4,company_2022
+350,2022,Hashedin Deloitte,3,8.1,company_2022
+351,2022,Hcl,63,4.25,company_2022
+352,2022,Headout,1,18,company_2022
+353,2022,Hirepro,1,3,company_2022
+354,2022,Honda,4,6,company_2022
+355,2022,Icici,5,2.7,company_2022
+356,2022,Iffco Tokio,3,8,company_2022
+357,2022,Ifr Solutions,1,3,company_2022
+358,2022,India Mart,18,7.5,company_2022
+359,2022,India Today,4,7,company_2022
+360,2022,India Today Group,1,5,company_2022
+361,2022,Infoedge,2,7.5,company_2022
+362,2022,Innoage,3,4,company_2022
+363,2022,Innovaccer,1,12,company_2022
+364,2022,Insta Astro,1,2.5,company_2022
+365,2022,Ion,3,14.1,company_2022
+366,2022,Ipec,1,6,company_2022
+367,2022,Isgec,9,6.14,company_2022
+368,2022,Itc,15,4.25,company_2022
+369,2022,Jio,1,4,company_2022
+370,2022,John Deere,1,4.5,company_2022
+371,2022,Josh Tech,3,8,company_2022
+372,2022,Jubliant,3,11,company_2022
+373,2022,Juggernaut Ai,1,3.6,company_2022
+374,2022,Juspay,2,21,company_2022
+376,2022,Knocial,27,4.2,company_2022
+377,2022,Kronos,10,15,company_2022
+378,2022,Legato,7,5.87,company_2022
+379,2022,Lever Ageedu,2,3.6,company_2022
+380,2022,Lg Soft,5,4.8,company_2022
+381,2022,Libsys,1,5,company_2022
+382,2022,Line Financialmagic Ed Tech,1,12,company_2022
+383,2022,Lucentmarcons,1,7.5,company_2022
+384,2022,Madman,1,4.5,company_2022
+385,2022,Magic Ed Tech,4,9,company_2022
+386,2022,Magnitude Soft,1,8.6,company_2022
+387,2022,Mount Talent,3,2.5,company_2022
+388,2022,Nagarro,7,6,company_2022
+389,2022,Navyug,8,6,company_2022
+390,2022,Neosoft,3,3.6,company_2022
+391,2022,Newgen,24,4.5,company_2022
+392,2022,Next Venture Pentair,2,9.3,company_2022
+393,2022,Nirmata Tech India,1,7.2,company_2022
+394,2022,Park View,1,4,company_2022
+395,2022,Paxcom,1,9,company_2022
+396,2022,Paytail,6,11,company_2022
+397,2022,Paytm,17,7,company_2022
+398,2022,Persolkelly,1,4.8,company_2022
+399,2022,Phronesis Partners,3,3.5,company_2022
+400,2022,Practo,8,4.5,company_2022
+401,2022,Priyam Tech,1,7,company_2022
+402,2022,Procmart,8,3.5,company_2022
+403,2022,Prodat It,1,57.32,company_2022
+404,2022,Rachnaye,1,5,company_2022
+405,2022,Rd Concrete,1,3.36,company_2022
+406,2022,Revature,1,6,company_2022
+407,2022,Roro,3,6,company_2022
+409,2022,Rx Logix,11,4.5,company_2022
+410,2022,S&B,3,4.5,company_2022
+411,2022,Samsung,4,7.3,company_2022
+412,2022,Sheryl Strategic Solutions,1,3,company_2022
+413,2022,Skill Vertex,8,6,company_2022
+414,2022,Sssg,5,11,company_2022
+415,2022,Stem Robo,2,4,company_2022
+416,2022,Step 2 Gen,1,3.6,company_2022
+417,2022,Symb Tech,2,4,company_2022
+418,2022,Tallent Serve,6,12,company_2022
+419,2022,Tallent Toppers,1,4,company_2022
+420,2022,TCS,5,3.3,company_2022
+421,2022,Tcs Ninja,68,3.3,company_2022
+422,2022,Tech Provider,9,3,company_2022
+423,2022,Testbook Edu,1,7,company_2022
+424,2022,Torrent Gas,1,3.25,company_2022
+425,2022,Torrent Power,2,3.25,company_2022
+426,2022,Traqiq,3,4.2,company_2022
+427,2022,Travclan,1,7.25,company_2022
+428,2022,Tsys,8,9.5,company_2022
+429,2022,Unthinkable,14,5.5,company_2022
+430,2022,Upgrad,14,7.5,company_2022
+431,2022,Wfx,4,4,company_2022
+432,2022,Wiley Mthree,4,7,company_2022
+433,2022,Wipro,137,3.5,company_2022
+434,2022,Zia Semiconductor,11,5,company_2022
+435,2022,Zomato,1,40,company_2022
+436,2023,Accenture,74,4.5,company_2023
+437,2023,Accuratics Softwares,1,3,company_2023
+438,2023,Addverb,2,6.37,company_2023
+439,2023,Akash + Byjus,3,7,company_2023
+440,2023,Aks It Services,18,4.5,company_2023
+442,2023,Amazon,1,47,company_2023
+441,2023,Amazon (Internship),2,13.2,company_2023
+443,2023,Apco Infra Ltd,1,4.8,company_2023
+444,2023,Appleute,1,18,company_2023
+445,2023,Apquod,1,8,company_2023
+446,2023,Aptitech Education,1,5,company_2023
+447,2023,Artius Interior Products Pvt. Ltd.,1,3.01,company_2023
+448,2023,Asa Industries,2,5,company_2023
+449,2023,Avaada,1,5,company_2023
+450,2023,Avlinq Solutions & Services Pvt Ltd.,1,3.5,company_2023
+451,2023,Axeno Consulting Private Limited,4,4.5,company_2023
+452,2023,Axismobi,1,4.5,company_2023
+453,2023,Axtria Ingenious Insights,7,5,company_2023
+454,2023,Baba Brick Field,1,1.8,company_2023
+455,2023,Bennet Univ,1,3,company_2023
+456,2023,Bhartiya Airways,10,4,company_2023
+457,2023,Binmile,1,3.6,company_2023
+458,2023,Bizz2credit,6,7.5,company_2023
+459,2023,Blinkit,4,20,company_2023
+460,2023,Bright Money,1,18.92,company_2023
+461,2023,Bristlecone,4,4.75,company_2023
+462,2023,By Ju'S,8,10,company_2023
+463,2023,C2fo,2,33.8,company_2023
+464,2023,Cadence,1,13,company_2023
+465,2023,Ccc Digital India,1,6,company_2023
+466,2023,Cetpa,1,5,company_2023
+467,2023,Chaitanya,5,3,company_2023
+468,2023,Cmr Green Technologies Ltd,1,4.5,company_2023
+469,2023,Coforge,4,4.25,company_2023
+470,2023,Comviva,2,3.75,company_2023
+471,2023,Constems Ai System Pvt Ltd,1,5,company_2023
+472,2023,Contify,1,3.6,company_2023
+473,2023,Copper Connection Ltd.,1,3,company_2023
+474,2023,Credencys Solutions Inc.,1,5.2,company_2023
+475,2023,Crtd Technologies Pvt. Ltd.,49,10,company_2023
+476,2023,Csc E-Governance India Ltd.,3,3.6,company_2023
+477,2023,Csg India Pvt. Ltd,14,7.5,company_2023
+478,2023,Cybix,1,3.5,company_2023
+479,2023,Cyfuture,2,5,company_2023
+480,2023,D S Power Corporation,1,7.2,company_2023
+481,2023,Dive Engg,1,12,company_2023
+482,2023,Dmi Finance,6,7.6,company_2023
+483,2023,Egonzehnder,1,3.3,company_2023
+484,2023,Ellipsol,1,5,company_2023
+485,2023,Emecon,1,3,company_2023
+486,2023,Emerson,9,4.86,company_2023
+487,2023,Ericsson,8,3.75,company_2023
+488,2023,Eta,16,3.46,company_2023
+489,2023,Evertz India Pvt. Ltd,6,5.5,company_2023
+490,2023,Exl Digital,8,5,company_2023
+491,2023,F1studioz,1,8,company_2023
+492,2023,Formulaic Engineers Pvt. Ltd.,1,3.5,company_2023
+493,2023,Fynd,1,7,company_2023
+494,2023,G.Bhaiyajii India,1,6,company_2023
+495,2023,Ga Morgan,4,3,company_2023
+496,2023,Geppert,2,3.6,company_2023
+497,2023,Google,1,29,company_2023
+498,2023,Graas,1,5.8,company_2023
+499,2023,Greynodes,1,4,company_2023
+500,2023,Hack Withinfy,1,8,company_2023
+501,2023,Hashedin By Deloitte,9,8.1,company_2023
+502,2023,Hcl,26,4.25,company_2023
+503,2023,Hely International,1,4,company_2023
+504,2023,Herody,1,4.5,company_2023
+505,2023,Hexaware Technologies,21,4,company_2023
+506,2023,Hike Education,4,5.58,company_2023
+507,2023,Hostbooks,10,4,company_2023
+508,2023,Huron,12,6.07,company_2023
+509,2023,Ibm,10,4.5,company_2023
+510,2023,Idemia,11,5,company_2023
+511,2023,Ikargos,4,5.83,company_2023
+512,2023,Infosys Hackwithinfy,1,8,company_2023
+513,2023,Infra.Market,3,4,company_2023
+514,2023,Inogus,1,3.5,company_2023
+515,2023,Intellipaat,7,9,company_2023
+516,2023,Inverted,5,3,company_2023
+517,2023,Ion Group,3,14.1,company_2023
+518,2023,Isgec,4,5,company_2023
+519,2023,Jackson,23,5,company_2023
+520,2023,Jaro Education,2,6.6,company_2023
+521,2023,Jk Lakshmi Cement Ltd.,1,4.5,company_2023
+522,2023,Jksleb,4,4,company_2023
+523,2023,Josh Tech,3,18.1,company_2023
+524,2023,Jp Morgan Chase,1,38.11,company_2023
+525,2023,Jsw,15,6.5,company_2023
+526,2023,Jubilant Foodworks,9,5,company_2023
+527,2023,K International,1,7.25,company_2023
+528,2023,Kazam,1,7,company_2023
+529,2023,Kmg It,1,3.25,company_2023
+530,2023,Knocial,21,10.2,company_2023
+531,2023,Koi Reader Technologies Pvt. Ltd.,1,3,company_2023
+532,2023,Lutron,2,3.98,company_2023
+533,2023,M Carbon,1,6,company_2023
+534,2023,M Tree,5,8,company_2023
+535,2023,Magic Edtech,5,6,company_2023
+536,2023,Mcarbon,1,5,company_2023
+537,2023,Motherson-Sumi,2,3.12,company_2023
+538,2023,Ms Cube Systems,1,5.4,company_2023
+539,2023,Mspark Futuristics &Amp; Associates,2,3.2,company_2023
+540,2023,Mtalkz,4,7,company_2023
+541,2023,Mudraksh & Mcshaw Advisory Llp,1,5,company_2023
+542,2023,Mycaptain,1,6,company_2023
+543,2023,Nagarro,9,4.5,company_2023
+544,2023,Nbyula,1,10,company_2023
+545,2023,New Gen,32,4.25,company_2023
+546,2023,Newgenesis,1,7,company_2023
+547,2023,Nf3x Labs Pte Ltd,1,24,company_2023
+549,2023,Omnijobs,1,4.5,company_2023
+550,2023,Onextel,4,5,company_2023
+551,2023,Orane,5,5.25,company_2023
+552,2023,Paytail,2,11,company_2023
+553,2023,Phronesis Partners,5,4.5,company_2023
+554,2023,Physics Wallah,1,4.8,company_2023
+555,2023,Playo,1,9,company_2023
+556,2023,Pocketfm,1,20,company_2023
+557,2023,Pplwork,1,8,company_2023
+558,2023,Prospecta,1,6,company_2023
+559,2023,Punj Lloyd Group,2,3,company_2023
+560,2023,Pysis,1,4.8,company_2023
+561,2023,Qikfox,3,4,company_2023
+562,2023,Qualtech,3,3.6,company_2023
+563,2023,Quest Global,9,3.25,company_2023
+564,2023,Quokka Labs,11,6,company_2023
+565,2023,Racl,6,3,company_2023
+566,2023,Rate Gain,2,6,company_2023
+567,2023,Rdc Concrete (India) Pvt Ltd,1,4,company_2023
+568,2023,Remotestate,1,5,company_2023
+569,2023,Rhampage,1,8.4,company_2023
+570,2023,Rtc Tek,2,3.5,company_2023
+571,2023,Rxlogix,8,6,company_2023
+572,2023,S&P Global,4,9,company_2023
+573,2023,Sage Technologies,1,3.5,company_2023
+574,2023,Saitech,1,2.5,company_2023
+575,2023,Samagra- Transforming Governance,1,18,company_2023
+576,2023,Samsung Electronics,13,7.5,company_2023
+577,2023,Samsung Heavy Industries India,7,6.7,company_2023
+578,2023,Samvardhan Motherson International Limited,5,3.1,company_2023
+579,2023,Smartcare,1,4,company_2023
+580,2023,Soft Pro India,1,4.2,company_2023
+581,2023,Spurtree,4,4,company_2023
+582,2023,St Microelectronics Ltd.,1,3.6,company_2023
+583,2023,Stoa,1,7.5,company_2023
+584,2023,Successive Technologies Pvt Ltd,3,5.5,company_2023
+585,2023,Super Share,2,23,company_2023
+586,2023,Talent Serve,69,10,company_2023
+587,2023,Target,2,8.02,company_2023
+588,2023,Tcs-Digital,7,7.01,company_2023
+589,2023,Tcs-Ninja,48,3.36,company_2023
+590,2023,Technify,1,15,company_2023
+591,2023,Techryde,4,4,company_2023
+592,2023,Telgoo 5,5,3.5,company_2023
+593,2023,Tezos,1,5.88,company_2023
+594,2023,Think Future,1,5.5,company_2023
+595,2023,Timex,1,3.25,company_2023
+596,2023,Torrent Gas,2,3.75,company_2023
+597,2023,Torrent Power,2,3.75,company_2023
+598,2023,Ub,1,10,company_2023
+599,2023,Ucertify,2,4,company_2023
+600,2023,Ultimate Kronos Group,8,15,company_2023
+601,2023,Uni Converge Technologies,1,4,company_2023
+602,2023,Unthinkable,5,5,company_2023
+603,2023,Uproar Learning,4,4.5,company_2023
+604,2023,Vinculum Solutions,3,5,company_2023
+605,2023,Visdum,1,3,company_2023
+606,2023,Wayspire Ed Tech Pvt. Ltd.,3,3.5,company_2023
+607,2023,Webkul,5,3.6,company_2023
+608,2023,Win Home,2,4,company_2023
+610,2023,Z-Scaler,4,25,company_2023
+609,2023,Zia Semiconductors,12,4.5,company_2023
+611,2023,Zyla Health,1,5,company_2023
