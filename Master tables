@@ -1,0 +1,88 @@
+# Campus Placement Insights
+
+## Project Overview
+Campus Placement Insights is a data analytics project designed to analyze campus placement trends over the past five years. The project focuses on transforming raw placement data into a clean, structured, and analysis-ready format using PostgreSQL and SQL, followed by visualization in Power BI.
+
+---
+
+## Data Modeling Approach
+
+Initially, the raw placement data was stored across **10 intermediate tables**. These tables were created during the data extraction and cleaning phase and contained overlapping, redundant, and partially normalized information.
+
+To improve data quality, reduce redundancy, and support efficient analysis, the data was consolidated into **three master tables** using SQL transformations and deduplication logic.
+
+---
+
+## Master Tables Description
+
+### 1. Students Table (`students_master.csv`)
+This table contains student-level information and serves as the core entity of the data model.
+
+**Purpose:**
+- Stores unique student records
+- Eliminates duplicate student entries across multiple years
+- Enables branch-wise and year-wise analysis
+
+**Key Information:**
+- Student identifiers
+- Academic branch
+- Graduation year
+- Relevant demographic and academic attributes
+
+---
+
+### 2. Company Summary Table (`company_summary.csv`)
+This table contains company-level information and acts as a reference dimension.
+
+**Purpose:**
+- Stores unique recruiting companies
+- Avoids repeated company information across multiple placement records
+- Supports analysis of company participation trends
+
+**Key Information:**
+- Company name
+- Industry / sector (if applicable)
+- Package-related summary fields
+
+---
+
+### 3. Company Placement Table (`company_placement.csv`)
+This table represents the transactional placement data linking students and companies.
+
+**Purpose:**
+- Captures actual placement events
+- Establishes relationships between students and recruiting companies
+- Enables salary, year-wise, and branch-wise placement analysis
+
+**Key Information:**
+- Student reference
+- Company reference
+- Placement year
+- Package offered
+
+---
+
+## Data Transformation & Queries
+
+- SQL queries were used extensively to:
+  - Clean and standardize raw data
+  - Remove duplicate records
+  - Normalize the data structure
+  - Create relationships between students, companies, and placements
+- Joins, aggregations, and filtering logic were applied to generate accurate master tables suitable for analytical use.
+
+---
+
+
+## Outcome
+The final dataset enables:
+- Overall placement trend analysis
+- Branch-wise placement performance
+- Company participation and package analysis
+- Clear and scalable reporting in Power BI
+
+---
+
+## Author
+Jeeniya Shakya
+
