@@ -47,6 +47,7 @@ The data was published as **year-wise PDF placement reports** and covers the aca
 - 🧩 **Data Modeling**; fact–dimension relationships for accurate aggregation  
 - 📐 **DAX**; calculated measures and dynamic KPIs  
 - 🎛 **Slicers & Filters**; interactive year-wise and branch-wise analysis  
+- 🎨 **Flaticon**; icons used for visual enhancement of dashboards and reports    
 
 ---
 
