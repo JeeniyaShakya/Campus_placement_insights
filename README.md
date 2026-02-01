@@ -1,53 +1,87 @@
-# 📊 Campus Placement Insights
+# 🎓 Campus Placement Insights Dashboard (2019–2023)
 
-## Problem Statement
-Placement data for educational institutions is often published as scattered PDF reports across multiple academic years. These reports are difficult to analyze collectively, lack standardization, and do not provide clear insights into year-wise trends, branch-wise performance, or overall placement outcomes.  
+## 📌 Problem Statement
+Campus placement data spanning **5 years (2019–2023)** and multiple academic branches is often scattered and difficult to interpret.  
+Key challenges include:
+- Lack of visibility into **year-over-year placement trends**
+- Difficulty comparing **branch-wise performance**
+- Limited clarity on **recruiter dominance** and **salary distribution**
+- Absence of a centralized system for **data-driven placement insights**
 
-As a result, students, academic planners, and stakeholders struggle to understand placement patterns and make data-driven decisions.
-
----
-
-## Goal / Purpose
-The objective of this project is to:
-
-- Convert **unstructured placement PDFs** into a structured, analysis-ready format  
-- Build a **centralized database** for multi-year placement data  
-- Analyze **overall and branch-wise placement performance**  
-- Create an **interactive Power BI dashboard** for insights  
-
-This project demonstrates an **end-to-end data analytics workflow** from raw data extraction to business insights.
+This creates a need for an **interactive, visual analytics solution** that transforms raw placement data into meaningful insights.
 
 ---
 
-## Data Source
-The placement data used in this project was sourced from the **official website of JSS Academy of Technical Education, Noida**:
+## 🎯 Goal / Purpose
+The goal of this project is to develop an **interactive Power BI dashboard** that analyzes **campus placement data from 2019 to 2023** and delivers actionable insights.
 
-- **Official Website:** https://jssaten.ac.in/placement  
-
-The data was published as **year-wise PDF placement reports** and covers the academic years **2019 to 2023**. These PDFs were converted into CSV format for cleaning, deduplication, and analysis.
-
----
-
-## Key Insights
-- **Consistent upward trend** in placements, with **2023 recording the highest number of placed students**
-- **CSE emerged as the top-performing branch**, leading in **placement count, average package, and recruiter diversity**
-- **TCS identified as the top mass recruiter**, reflecting a strong long-term industry association
-- **Average package increased steadily**, especially **post-2021**, indicating improved placement quality
-- **PRODAT IT offered the highest package (₹57.32 LPA)**, showcasing high-paying niche recruiters
-- **Recruiter diversity highest for CSE**, providing broader industry exposure
-- **CE and EEE showed comparatively lower placement outcomes**, highlighting improvement opportunities
-- **High packages observed across multiple years**, not limited to a single placement season
-- **Stable recruiter participation** maintained across all five years
+The dashboard is designed to:
+- Track placement growth from **325 students (2019)** to **567 students (2023)**
+- Analyze **branch-wise placements**, salary packages, and recruiter diversity
+- Identify **top mass recruiters** and **highest salary offers**
+- Present compensation metrics such as **average (5.94 LPA)**, **median (4.00 LPA)**, **minimum (1.80 LPA)**, and **maximum (57.32 LPA)** packages
+- Support placement planning through **data-backed decision-making**
 
 ---
 
-## Techniques Used
-- 🖥 **Power BI Desktop**; dashboard creation and interactive reporting  
-- 🔄 **Power Query**; ETL, data transformation, and shaping  
-- 🧩 **Data Modeling**; fact–dimension relationships for accurate aggregation  
-- 📐 **DAX**; calculated measures and dynamic KPIs  
-- 🎛 **Slicers & Filters**; interactive year-wise and branch-wise analysis  
-- 🎨 **Flaticon**; icons used for visual enhancement of dashboards and reports    
+## 📊 Key Visuals
+- **KPI Cards**
+  - Average Package: **5.94 LPA**
+  - Maximum Package: **57.32 LPA**
+  - Median Package: **4.00 LPA**
+  - Minimum Package: **1.80 LPA**
+  - Average Companies per Year: **120**
+
+- **Students Placed by Year (2019–2023)**
+  - 2019: **325**
+  - 2020: **347**
+  - 2021: **367**
+  - 2022: **471**
+  - 2023: **567**
+
+- **Top Mass Recruiters**
+  - TCS (**299**), Wipro (**208**), Accenture (**151**), HCL (**127**)
+
+- **Branch-wise Placement Analysis**
+  - CSE (**601**), ECE (**473**), IT (**455**), CE (**57**)
+
+- **Average Package Trends**
+  - Year-wise and branch-wise salary comparisons
+
+- **Top Package Distribution**
+  - Highest package recorded: **57.32 LPA (Prodat IT)**
+
+---
+
+## 💼 Business Impacts / Insights
+- **2023 recorded the highest placements and salary growth** across the 5-year period
+- **CSE emerged as the top-performing branch**, leading in:
+  - Total placements (**601**)
+  - Recruiter diversity (**262 recruiters**)
+  - Average package (~**7.3 LPA**)
+- **TCS consistently ranked as the top mass recruiter**
+- Technical branches (**CSE, IT, ECE**) outperformed core branches in both **placements and compensation**
+- Enables faster, clearer decision-making for **placement cells, students, and academic stakeholders**
+
+---
+
+## 🛠️ Techniques Used
+- **Power BI**
+  - Interactive dashboards and KPI-driven visuals
+
+- **Power Query (ETL)**
+  - Data cleaning, transformation, and aggregation for **5 years of placement data**
+
+- **DAX**
+  - Measures for placement counts and salary metrics
+  - Year-wise and branch-wise calculations
+
+- **Data Modeling**
+  - Relationships across year, branch, recruiter, and package attributes
+
+- **Dashboard Design**
+  - Slicers for **Year (2019–2023)** and **Branch**
+  - Clean, professional layout focused on insight delivery
 
 ---
 
